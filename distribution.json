@@ -308,6 +308,1491 @@
             "MD5": "448ff2af558b34c74ccf3e61b4641535",
             "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar"
           }
+        },
+        {
+          "id": "cloth-basic-math-0.6.0-193e65e066e23912.jar",
+          "name": "cloth-basic-math-0.6.0-193e65e066e23912.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10640,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/cloth-basic-math-0.6.0-193e65e066e23912.jar",
+            "MD5": "355cd6fbdbedc6b9f942b662c321eb83",
+            "path": "overrides/.fabric/processedMods/cloth-basic-math-0.6.0-193e65e066e23912.jar"
+          }
+        },
+        {
+          "id": "cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar",
+          "name": "cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10678,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar",
+            "MD5": "1445462108bd5d14484e817e5aa793f8",
+            "path": "overrides/.fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar"
+          }
+        },
+        {
+          "id": "cloth-config2-4.16.91-1afe114ae060b53f.jar",
+          "name": "cloth-config2-4.16.91-1afe114ae060b53f.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1106615,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/cloth-config2-4.16.91-1afe114ae060b53f.jar",
+            "MD5": "1f43d3e69ee161ba4f9f79acffcadf99",
+            "path": "overrides/.fabric/processedMods/cloth-config2-4.16.91-1afe114ae060b53f.jar"
+          }
+        },
+        {
+          "id": "com_electronwill_night-config_core-3.6.2-634b44b805c8fc44.jar",
+          "name": "com_electronwill_night-config_core-3.6.2-634b44b805c8fc44.jar",
+          "type": "File",
+          "artifact": {
+            "size": 204368,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/com_electronwill_night-config_core-3.6.2-634b44b805c8fc44.jar",
+            "MD5": "6704b3c84d11a76abd62774ef20780be",
+            "path": "overrides/.fabric/processedMods/com_electronwill_night-config_core-3.6.2-634b44b805c8fc44.jar"
+          }
+        },
+        {
+          "id": "com_electronwill_night-config_toml-3.6.2-932e254c62d835a0.jar",
+          "name": "com_electronwill_night-config_toml-3.6.2-932e254c62d835a0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 32076,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/com_electronwill_night-config_toml-3.6.2-932e254c62d835a0.jar",
+            "MD5": "5bf443718ff55ac65be2c51cf9a1ecfb",
+            "path": "overrides/.fabric/processedMods/com_electronwill_night-config_toml-3.6.2-932e254c62d835a0.jar"
+          }
+        },
+        {
+          "id": "enchant_giver-1.0.3-79b27f38a76bcd04.jar",
+          "name": "enchant_giver-1.0.3-79b27f38a76bcd04.jar",
+          "type": "File",
+          "artifact": {
+            "size": 18966,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/enchant_giver-1.0.3-79b27f38a76bcd04.jar",
+            "MD5": "22496a4875f48408a0094d49aa5fa7ac",
+            "path": "overrides/.fabric/processedMods/enchant_giver-1.0.3-79b27f38a76bcd04.jar"
+          }
+        },
+        {
+          "id": "fabric-api-base-0.4.0+3cc0f0907d-bbb63739c8bcc262.jar",
+          "name": "fabric-api-base-0.4.0+3cc0f0907d-bbb63739c8bcc262.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21039,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-api-base-0.4.0+3cc0f0907d-bbb63739c8bcc262.jar",
+            "MD5": "7935c4cabcf3960ef1a03ec131214f2d",
+            "path": "overrides/.fabric/processedMods/fabric-api-base-0.4.0+3cc0f0907d-bbb63739c8bcc262.jar"
+          }
+        },
+        {
+          "id": "fabric-api-lookup-api-v1-1.3.1+3cc0f0907d-3a6bee01784183d2.jar",
+          "name": "fabric-api-lookup-api-v1-1.3.1+3cc0f0907d-3a6bee01784183d2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31408,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-api-lookup-api-v1-1.3.1+3cc0f0907d-3a6bee01784183d2.jar",
+            "MD5": "564682c9d22c046dbeed6881798f5cc2",
+            "path": "overrides/.fabric/processedMods/fabric-api-lookup-api-v1-1.3.1+3cc0f0907d-3a6bee01784183d2.jar"
+          }
+        },
+        {
+          "id": "fabric-biome-api-v1-3.1.13+3cc0f0907d-ed0ccda39ab1f3fe.jar",
+          "name": "fabric-biome-api-v1-3.1.13+3cc0f0907d-ed0ccda39ab1f3fe.jar",
+          "type": "File",
+          "artifact": {
+            "size": 84953,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-biome-api-v1-3.1.13+3cc0f0907d-ed0ccda39ab1f3fe.jar",
+            "MD5": "2ccbd9dcb8a1469dcaa2a67ce6e516f7",
+            "path": "overrides/.fabric/processedMods/fabric-biome-api-v1-3.1.13+3cc0f0907d-ed0ccda39ab1f3fe.jar"
+          }
+        },
+        {
+          "id": "fabric-blockrenderlayer-v1-1.1.6+3cc0f0907d-85671a5bdf2b01c6.jar",
+          "name": "fabric-blockrenderlayer-v1-1.1.6+3cc0f0907d-85671a5bdf2b01c6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8999,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-blockrenderlayer-v1-1.1.6+3cc0f0907d-85671a5bdf2b01c6.jar",
+            "MD5": "9c0d4741d0e1e9f820c6aa2df89e7af5",
+            "path": "overrides/.fabric/processedMods/fabric-blockrenderlayer-v1-1.1.6+3cc0f0907d-85671a5bdf2b01c6.jar"
+          }
+        },
+        {
+          "id": "fabric-command-api-v1-1.1.3+3cc0f0907d-e996a839b4ecf3d0.jar",
+          "name": "fabric-command-api-v1-1.1.3+3cc0f0907d-e996a839b4ecf3d0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 19992,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-command-api-v1-1.1.3+3cc0f0907d-e996a839b4ecf3d0.jar",
+            "MD5": "f1ef27f158439e2bed49b4745fa8f70e",
+            "path": "overrides/.fabric/processedMods/fabric-command-api-v1-1.1.3+3cc0f0907d-e996a839b4ecf3d0.jar"
+          }
+        },
+        {
+          "id": "fabric-commands-v0-0.2.3+3cc0f0907d-662393d8f219eece.jar",
+          "name": "fabric-commands-v0-0.2.3+3cc0f0907d-662393d8f219eece.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4368,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-commands-v0-0.2.3+3cc0f0907d-662393d8f219eece.jar",
+            "MD5": "2ea73e06d47bee427efb6aa42bf103be",
+            "path": "overrides/.fabric/processedMods/fabric-commands-v0-0.2.3+3cc0f0907d-662393d8f219eece.jar"
+          }
+        },
+        {
+          "id": "fabric-containers-v0-0.1.12+3cc0f0907d-4f0c795d379e609.jar",
+          "name": "fabric-containers-v0-0.1.12+3cc0f0907d-4f0c795d379e609.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15538,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-containers-v0-0.1.12+3cc0f0907d-4f0c795d379e609.jar",
+            "MD5": "02ab384830bee97d0116b61b99956965",
+            "path": "overrides/.fabric/processedMods/fabric-containers-v0-0.1.12+3cc0f0907d-4f0c795d379e609.jar"
+          }
+        },
+        {
+          "id": "fabric-content-registries-v0-0.2+3cc0f0907d-c348fc1f193769e5.jar",
+          "name": "fabric-content-registries-v0-0.2+3cc0f0907d-c348fc1f193769e5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 23719,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-content-registries-v0-0.2+3cc0f0907d-c348fc1f193769e5.jar",
+            "MD5": "804353703a38ea2195eec065de0f3c37",
+            "path": "overrides/.fabric/processedMods/fabric-content-registries-v0-0.2+3cc0f0907d-c348fc1f193769e5.jar"
+          }
+        },
+        {
+          "id": "fabric-crash-report-info-v1-0.1.+3cc0f0907d-1daa56ae2f9442f6.jar",
+          "name": "fabric-crash-report-info-v1-0.1.+3cc0f0907d-1daa56ae2f9442f6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6179,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-crash-report-info-v1-0.1.+3cc0f0907d-1daa56ae2f9442f6.jar",
+            "MD5": "2a56ee40647f00fe15eea4755a21633d",
+            "path": "overrides/.fabric/processedMods/fabric-crash-report-info-v1-0.1.+3cc0f0907d-1daa56ae2f9442f6.jar"
+          }
+        },
+        {
+          "id": "fabric-dimensions-v1-2.0.8+3cc0f0907d-84abfd307d21c23d.jar",
+          "name": "fabric-dimensions-v1-2.0.8+3cc0f0907d-84abfd307d21c23d.jar",
+          "type": "File",
+          "artifact": {
+            "size": 9876,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-dimensions-v1-2.0.8+3cc0f0907d-84abfd307d21c23d.jar",
+            "MD5": "82626663ef22ca70239ca64964a661e1",
+            "path": "overrides/.fabric/processedMods/fabric-dimensions-v1-2.0.8+3cc0f0907d-84abfd307d21c23d.jar"
+          }
+        },
+        {
+          "id": "fabric-entity-events-v1-1.2.4+3cc0f0907d-68f71b1179f9d22e.jar",
+          "name": "fabric-entity-events-v1-1.2.4+3cc0f0907d-68f71b1179f9d22e.jar",
+          "type": "File",
+          "artifact": {
+            "size": 36130,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-entity-events-v1-1.2.4+3cc0f0907d-68f71b1179f9d22e.jar",
+            "MD5": "07a6c2849f44d74c34d83c27bc020985",
+            "path": "overrides/.fabric/processedMods/fabric-entity-events-v1-1.2.4+3cc0f0907d-68f71b1179f9d22e.jar"
+          }
+        },
+        {
+          "id": "fabric-events-interaction-v0-0.4+3cc0f0907d-ff2b909d04b4b82e.jar",
+          "name": "fabric-events-interaction-v0-0.4+3cc0f0907d-ff2b909d04b4b82e.jar",
+          "type": "File",
+          "artifact": {
+            "size": 36892,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-events-interaction-v0-0.4+3cc0f0907d-ff2b909d04b4b82e.jar",
+            "MD5": "adad491f728ae4ad68b0145b2bc39c90",
+            "path": "overrides/.fabric/processedMods/fabric-events-interaction-v0-0.4+3cc0f0907d-ff2b909d04b4b82e.jar"
+          }
+        },
+        {
+          "id": "fabric-events-lifecycle-v0-0.2.2+3cc0f0907d-2a635fbf619dcd5a.jar",
+          "name": "fabric-events-lifecycle-v0-0.2.2+3cc0f0907d-2a635fbf619dcd5a.jar",
+          "type": "File",
+          "artifact": {
+            "size": 17211,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-events-lifecycle-v0-0.2.2+3cc0f0907d-2a635fbf619dcd5a.jar",
+            "MD5": "1e5107ba63096c45c738cf0512e9d888",
+            "path": "overrides/.fabric/processedMods/fabric-events-lifecycle-v0-0.2.2+3cc0f0907d-2a635fbf619dcd5a.jar"
+          }
+        },
+        {
+          "id": "fabric-game-rule-api-v1-1.0.7+3cc0f0907d-21561e11643d3b2c.jar",
+          "name": "fabric-game-rule-api-v1-1.0.7+3cc0f0907d-21561e11643d3b2c.jar",
+          "type": "File",
+          "artifact": {
+            "size": 41439,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-game-rule-api-v1-1.0.7+3cc0f0907d-21561e11643d3b2c.jar",
+            "MD5": "c685d5b41ab278b62d16e56e2a55f53b",
+            "path": "overrides/.fabric/processedMods/fabric-game-rule-api-v1-1.0.7+3cc0f0907d-21561e11643d3b2c.jar"
+          }
+        },
+        {
+          "id": "fabric-item-api-v1-1.2.2+3cc0f0907d-4742a45015dc0c02.jar",
+          "name": "fabric-item-api-v1-1.2.2+3cc0f0907d-4742a45015dc0c02.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16305,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-item-api-v1-1.2.2+3cc0f0907d-4742a45015dc0c02.jar",
+            "MD5": "dfec04171c91e51510a141bc2391fd08",
+            "path": "overrides/.fabric/processedMods/fabric-item-api-v1-1.2.2+3cc0f0907d-4742a45015dc0c02.jar"
+          }
+        },
+        {
+          "id": "fabric-item-groups-v0-0.3.1+3cc0f0907d-d202f2debaba15cf.jar",
+          "name": "fabric-item-groups-v0-0.3.1+3cc0f0907d-d202f2debaba15cf.jar",
+          "type": "File",
+          "artifact": {
+            "size": 22706,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-item-groups-v0-0.3.1+3cc0f0907d-d202f2debaba15cf.jar",
+            "MD5": "f2d3ac96b6c9ac787b9951007f299cab",
+            "path": "overrides/.fabric/processedMods/fabric-item-groups-v0-0.3.1+3cc0f0907d-d202f2debaba15cf.jar"
+          }
+        },
+        {
+          "id": "fabric-key-binding-api-v1-1.0.5+3cc0f0907d-3800bcf1677e8360.jar",
+          "name": "fabric-key-binding-api-v1-1.0.5+3cc0f0907d-3800bcf1677e8360.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10672,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-key-binding-api-v1-1.0.5+3cc0f0907d-3800bcf1677e8360.jar",
+            "MD5": "ef85f430c4134c808f4a5a043fc36165",
+            "path": "overrides/.fabric/processedMods/fabric-key-binding-api-v1-1.0.5+3cc0f0907d-3800bcf1677e8360.jar"
+          }
+        },
+        {
+          "id": "fabric-keybindings-v0-0.2.2+3cc0f0907d-dc1356f83a39e131.jar",
+          "name": "fabric-keybindings-v0-0.2.2+3cc0f0907d-dc1356f83a39e131.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6678,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-keybindings-v0-0.2.2+3cc0f0907d-dc1356f83a39e131.jar",
+            "MD5": "602ce4657b5a4a05a7fefb95fca2a271",
+            "path": "overrides/.fabric/processedMods/fabric-keybindings-v0-0.2.2+3cc0f0907d-dc1356f83a39e131.jar"
+          }
+        },
+        {
+          "id": "fabric-lifecycle-events-v1-1.2.2+3cc0f0907d-5db78f8688ca7657.jar",
+          "name": "fabric-lifecycle-events-v1-1.2.2+3cc0f0907d-5db78f8688ca7657.jar",
+          "type": "File",
+          "artifact": {
+            "size": 58137,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-lifecycle-events-v1-1.2.2+3cc0f0907d-5db78f8688ca7657.jar",
+            "MD5": "82bab58dc3605a0ea3296047ad9fa750",
+            "path": "overrides/.fabric/processedMods/fabric-lifecycle-events-v1-1.2.2+3cc0f0907d-5db78f8688ca7657.jar"
+          }
+        },
+        {
+          "id": "fabric-loot-tables-v1-1.0.3+3cc0f0907d-aea2bd7efdc8a9a8.jar",
+          "name": "fabric-loot-tables-v1-1.0.3+3cc0f0907d-aea2bd7efdc8a9a8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21230,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-loot-tables-v1-1.0.3+3cc0f0907d-aea2bd7efdc8a9a8.jar",
+            "MD5": "c0a0db4e8bb55e4e367f5f65a2fe122a",
+            "path": "overrides/.fabric/processedMods/fabric-loot-tables-v1-1.0.3+3cc0f0907d-aea2bd7efdc8a9a8.jar"
+          }
+        },
+        {
+          "id": "fabric-mining-levels-v0-0.1.4+3cc0f0907d-3a2c361d334d3c89.jar",
+          "name": "fabric-mining-levels-v0-0.1.4+3cc0f0907d-3a2c361d334d3c89.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4994,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-mining-levels-v0-0.1.4+3cc0f0907d-3a2c361d334d3c89.jar",
+            "MD5": "6ad616127fd879c0020917a0b06e1b56",
+            "path": "overrides/.fabric/processedMods/fabric-mining-levels-v0-0.1.4+3cc0f0907d-3a2c361d334d3c89.jar"
+          }
+        },
+        {
+          "id": "fabric-models-v0-0.3.1+3cc0f0907d-71d411f99d22d6f.jar",
+          "name": "fabric-models-v0-0.3.1+3cc0f0907d-71d411f99d22d6f.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20901,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-models-v0-0.3.1+3cc0f0907d-71d411f99d22d6f.jar",
+            "MD5": "69de961f8b01667f52dd899a16ca2d88",
+            "path": "overrides/.fabric/processedMods/fabric-models-v0-0.3.1+3cc0f0907d-71d411f99d22d6f.jar"
+          }
+        },
+        {
+          "id": "fabric-networking-api-v1-1.0.5+3cc0f0907d-da0ba1933e201742.jar",
+          "name": "fabric-networking-api-v1-1.0.5+3cc0f0907d-da0ba1933e201742.jar",
+          "type": "File",
+          "artifact": {
+            "size": 96383,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-networking-api-v1-1.0.5+3cc0f0907d-da0ba1933e201742.jar",
+            "MD5": "e046b834f97253c978e6f4c63465f159",
+            "path": "overrides/.fabric/processedMods/fabric-networking-api-v1-1.0.5+3cc0f0907d-da0ba1933e201742.jar"
+          }
+        },
+        {
+          "id": "fabric-networking-blockentity-v0+3cc0f0907d-e23c31cc408a380e.jar",
+          "name": "fabric-networking-blockentity-v0+3cc0f0907d-e23c31cc408a380e.jar",
+          "type": "File",
+          "artifact": {
+            "size": 9533,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-networking-blockentity-v0+3cc0f0907d-e23c31cc408a380e.jar",
+            "MD5": "a6ff790c24153a1b394b42d9a13e20c7",
+            "path": "overrides/.fabric/processedMods/fabric-networking-blockentity-v0+3cc0f0907d-e23c31cc408a380e.jar"
+          }
+        },
+        {
+          "id": "fabric-networking-v0-0.3.3+3cc0f0907d-ffa7864a34dc5100.jar",
+          "name": "fabric-networking-v0-0.3.3+3cc0f0907d-ffa7864a34dc5100.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20456,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-networking-v0-0.3.3+3cc0f0907d-ffa7864a34dc5100.jar",
+            "MD5": "3884079f646e9789eee7a083dcf72d5b",
+            "path": "overrides/.fabric/processedMods/fabric-networking-v0-0.3.3+3cc0f0907d-ffa7864a34dc5100.jar"
+          }
+        },
+        {
+          "id": "fabric-object-builder-api-v1-1.9+3cc0f0907d-82f3b25b6164f28c.jar",
+          "name": "fabric-object-builder-api-v1-1.9+3cc0f0907d-82f3b25b6164f28c.jar",
+          "type": "File",
+          "artifact": {
+            "size": 51525,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-object-builder-api-v1-1.9+3cc0f0907d-82f3b25b6164f28c.jar",
+            "MD5": "ee84dbce4842541244768393078032a4",
+            "path": "overrides/.fabric/processedMods/fabric-object-builder-api-v1-1.9+3cc0f0907d-82f3b25b6164f28c.jar"
+          }
+        },
+        {
+          "id": "fabric-object-builders-v0-0.7.3+3cc0f0907d-8f2805f7c68e9b2b.jar",
+          "name": "fabric-object-builders-v0-0.7.3+3cc0f0907d-8f2805f7c68e9b2b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20242,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-object-builders-v0-0.7.3+3cc0f0907d-8f2805f7c68e9b2b.jar",
+            "MD5": "b3a90692c4c2e2a0fa062535b26b0313",
+            "path": "overrides/.fabric/processedMods/fabric-object-builders-v0-0.7.3+3cc0f0907d-8f2805f7c68e9b2b.jar"
+          }
+        },
+        {
+          "id": "fabric-particles-v1-0.2.5+3cc0f0907d-92968e89681a0555.jar",
+          "name": "fabric-particles-v1-0.2.5+3cc0f0907d-92968e89681a0555.jar",
+          "type": "File",
+          "artifact": {
+            "size": 18095,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-particles-v1-0.2.5+3cc0f0907d-92968e89681a0555.jar",
+            "MD5": "b30ede08fa19337d8e9f41b5c949ea5c",
+            "path": "overrides/.fabric/processedMods/fabric-particles-v1-0.2.5+3cc0f0907d-92968e89681a0555.jar"
+          }
+        },
+        {
+          "id": "fabric-registry-sync-v0-0.7.6+3cc0f0907d-6fa5b5eedc9b64a3.jar",
+          "name": "fabric-registry-sync-v0-0.7.6+3cc0f0907d-6fa5b5eedc9b64a3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 75226,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-registry-sync-v0-0.7.6+3cc0f0907d-6fa5b5eedc9b64a3.jar",
+            "MD5": "2e6c1855020965872508b7f0b1b77276",
+            "path": "overrides/.fabric/processedMods/fabric-registry-sync-v0-0.7.6+3cc0f0907d-6fa5b5eedc9b64a3.jar"
+          }
+        },
+        {
+          "id": "fabric-renderer-api-v1-0.4.5+3cc0f0907d-90e9cf853c43e877.jar",
+          "name": "fabric-renderer-api-v1-0.4.5+3cc0f0907d-90e9cf853c43e877.jar",
+          "type": "File",
+          "artifact": {
+            "size": 35745,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-renderer-api-v1-0.4.5+3cc0f0907d-90e9cf853c43e877.jar",
+            "MD5": "d81610c008bc80d7dd16ef318412d59b",
+            "path": "overrides/.fabric/processedMods/fabric-renderer-api-v1-0.4.5+3cc0f0907d-90e9cf853c43e877.jar"
+          }
+        },
+        {
+          "id": "fabric-renderer-indigo-0.4.5+3cc0f0907d-eaaf1772ec558d6d.jar",
+          "name": "fabric-renderer-indigo-0.4.5+3cc0f0907d-eaaf1772ec558d6d.jar",
+          "type": "File",
+          "artifact": {
+            "size": 112810,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-renderer-indigo-0.4.5+3cc0f0907d-eaaf1772ec558d6d.jar",
+            "MD5": "344cb11212608442a0f707f6d277d04b",
+            "path": "overrides/.fabric/processedMods/fabric-renderer-indigo-0.4.5+3cc0f0907d-eaaf1772ec558d6d.jar"
+          }
+        },
+        {
+          "id": "fabric-renderer-registries-v1-2.+3cc0f0907d-f821d9a490ca2e60.jar",
+          "name": "fabric-renderer-registries-v1-2.+3cc0f0907d-f821d9a490ca2e60.jar",
+          "type": "File",
+          "artifact": {
+            "size": 19038,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-renderer-registries-v1-2.+3cc0f0907d-f821d9a490ca2e60.jar",
+            "MD5": "e03a4e355c19d83dbcbf30b3909d98f3",
+            "path": "overrides/.fabric/processedMods/fabric-renderer-registries-v1-2.+3cc0f0907d-f821d9a490ca2e60.jar"
+          }
+        },
+        {
+          "id": "fabric-rendering-data-attachment+3cc0f0907d-afff6374d79c825a.jar",
+          "name": "fabric-rendering-data-attachment+3cc0f0907d-afff6374d79c825a.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10607,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-rendering-data-attachment+3cc0f0907d-afff6374d79c825a.jar",
+            "MD5": "011db8deb6e7632eb1856fc0876aa3c5",
+            "path": "overrides/.fabric/processedMods/fabric-rendering-data-attachment+3cc0f0907d-afff6374d79c825a.jar"
+          }
+        },
+        {
+          "id": "fabric-rendering-fluids-v1-0.1.1+3cc0f0907d-6ae8927c0b348f60.jar",
+          "name": "fabric-rendering-fluids-v1-0.1.1+3cc0f0907d-6ae8927c0b348f60.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14009,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-rendering-fluids-v1-0.1.1+3cc0f0907d-6ae8927c0b348f60.jar",
+            "MD5": "13aff1f4988bcc946b339ceb95ab0ab4",
+            "path": "overrides/.fabric/processedMods/fabric-rendering-fluids-v1-0.1.1+3cc0f0907d-6ae8927c0b348f60.jar"
+          }
+        },
+        {
+          "id": "fabric-rendering-v0-1.1.3+3cc0f0907d-cf744ae481fe3e87.jar",
+          "name": "fabric-rendering-v0-1.1.3+3cc0f0907d-cf744ae481fe3e87.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8629,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-rendering-v0-1.1.3+3cc0f0907d-cf744ae481fe3e87.jar",
+            "MD5": "5f01475ffa0e1cb2fdf76f2921d3c5ad",
+            "path": "overrides/.fabric/processedMods/fabric-rendering-v0-1.1.3+3cc0f0907d-cf744ae481fe3e87.jar"
+          }
+        },
+        {
+          "id": "fabric-rendering-v1-1.6.1+3cc0f0907d-ae2510e8793e2b22.jar",
+          "name": "fabric-rendering-v1-1.6.1+3cc0f0907d-ae2510e8793e2b22.jar",
+          "type": "File",
+          "artifact": {
+            "size": 48242,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-rendering-v1-1.6.1+3cc0f0907d-ae2510e8793e2b22.jar",
+            "MD5": "13bea25905b6993961e9d5adefee216d",
+            "path": "overrides/.fabric/processedMods/fabric-rendering-v1-1.6.1+3cc0f0907d-ae2510e8793e2b22.jar"
+          }
+        },
+        {
+          "id": "fabric-resource-loader-v0-0.4.8+3cc0f0907d-44ba41b4ca08e765.jar",
+          "name": "fabric-resource-loader-v0-0.4.8+3cc0f0907d-44ba41b4ca08e765.jar",
+          "type": "File",
+          "artifact": {
+            "size": 56686,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-resource-loader-v0-0.4.8+3cc0f0907d-44ba41b4ca08e765.jar",
+            "MD5": "0f06b1625f3586b8ac99aa3ea9b99355",
+            "path": "overrides/.fabric/processedMods/fabric-resource-loader-v0-0.4.8+3cc0f0907d-44ba41b4ca08e765.jar"
+          }
+        },
+        {
+          "id": "fabric-screen-api-v1-1.0.1+3cc0f0907d-8990e709b468e4f8.jar",
+          "name": "fabric-screen-api-v1-1.0.1+3cc0f0907d-8990e709b468e4f8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44482,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-screen-api-v1-1.0.1+3cc0f0907d-8990e709b468e4f8.jar",
+            "MD5": "1f8b8fb41078e45aa1ec5f90e8decc9c",
+            "path": "overrides/.fabric/processedMods/fabric-screen-api-v1-1.0.1+3cc0f0907d-8990e709b468e4f8.jar"
+          }
+        },
+        {
+          "id": "fabric-screen-handler-api-v1-1.1+3cc0f0907d-38ddda3e856b9b70.jar",
+          "name": "fabric-screen-handler-api-v1-1.1+3cc0f0907d-38ddda3e856b9b70.jar",
+          "type": "File",
+          "artifact": {
+            "size": 18254,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-screen-handler-api-v1-1.1+3cc0f0907d-38ddda3e856b9b70.jar",
+            "MD5": "2a4a918e4b8597340396204cde4eb291",
+            "path": "overrides/.fabric/processedMods/fabric-screen-handler-api-v1-1.1+3cc0f0907d-38ddda3e856b9b70.jar"
+          }
+        },
+        {
+          "id": "fabric-structure-api-v1-1.1.12+3cc0f0907d-6e446ff9eed16f2b.jar",
+          "name": "fabric-structure-api-v1-1.1.12+3cc0f0907d-6e446ff9eed16f2b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14020,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-structure-api-v1-1.1.12+3cc0f0907d-6e446ff9eed16f2b.jar",
+            "MD5": "7db6cebe27a5df739f3e16a5c2e88cd3",
+            "path": "overrides/.fabric/processedMods/fabric-structure-api-v1-1.1.12+3cc0f0907d-6e446ff9eed16f2b.jar"
+          }
+        },
+        {
+          "id": "fabric-tag-extensions-v0-1.1.2+3cc0f0907d-270302c42d2a3aee.jar",
+          "name": "fabric-tag-extensions-v0-1.1.2+3cc0f0907d-270302c42d2a3aee.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14313,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-tag-extensions-v0-1.1.2+3cc0f0907d-270302c42d2a3aee.jar",
+            "MD5": "10a81f3acb50498d09a32d64cc2362de",
+            "path": "overrides/.fabric/processedMods/fabric-tag-extensions-v0-1.1.2+3cc0f0907d-270302c42d2a3aee.jar"
+          }
+        },
+        {
+          "id": "fabric-textures-v0-1.0.7+3cc0f0907d-9dd8b0482386233f.jar",
+          "name": "fabric-textures-v0-1.0.7+3cc0f0907d-9dd8b0482386233f.jar",
+          "type": "File",
+          "artifact": {
+            "size": 13484,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-textures-v0-1.0.7+3cc0f0907d-9dd8b0482386233f.jar",
+            "MD5": "fcf7df8303d6b5ecfcd9646a77f3cd12",
+            "path": "overrides/.fabric/processedMods/fabric-textures-v0-1.0.7+3cc0f0907d-9dd8b0482386233f.jar"
+          }
+        },
+        {
+          "id": "fabric-tool-attribute-api-v1-1.2+3cc0f0907d-68c29ecb1b395db6.jar",
+          "name": "fabric-tool-attribute-api-v1-1.2+3cc0f0907d-68c29ecb1b395db6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 34865,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-tool-attribute-api-v1-1.2+3cc0f0907d-68c29ecb1b395db6.jar",
+            "MD5": "bdad32f48cf22abeef2e2b4f9388720e",
+            "path": "overrides/.fabric/processedMods/fabric-tool-attribute-api-v1-1.2+3cc0f0907d-68c29ecb1b395db6.jar"
+          }
+        },
+        {
+          "id": "fabric-transfer-api-v1-1.5.0+3cc0f0907d-18947dcfd212550.jar",
+          "name": "fabric-transfer-api-v1-1.5.0+3cc0f0907d-18947dcfd212550.jar",
+          "type": "File",
+          "artifact": {
+            "size": 125542,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fabric-transfer-api-v1-1.5.0+3cc0f0907d-18947dcfd212550.jar",
+            "MD5": "4b212c3eeae24adeae82253db3f9561e",
+            "path": "overrides/.fabric/processedMods/fabric-transfer-api-v1-1.5.0+3cc0f0907d-18947dcfd212550.jar"
+          }
+        },
+        {
+          "id": "fasttransferlib-0.4.2-95f6df1b88d01d33.jar",
+          "name": "fasttransferlib-0.4.2-95f6df1b88d01d33.jar",
+          "type": "File",
+          "artifact": {
+            "size": 68541,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fasttransferlib-0.4.2-95f6df1b88d01d33.jar",
+            "MD5": "6b85f6da12f712528bcc40d06f92df61",
+            "path": "overrides/.fabric/processedMods/fasttransferlib-0.4.2-95f6df1b88d01d33.jar"
+          }
+        },
+        {
+          "id": "fiblib-1.0.2-ce5e54665883562e.jar",
+          "name": "fiblib-1.0.2-ce5e54665883562e.jar",
+          "type": "File",
+          "artifact": {
+            "size": 367153,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/fiblib-1.0.2-ce5e54665883562e.jar",
+            "MD5": "0e3d35ab86a013fd44148f6c640f1a0e",
+            "path": "overrides/.fabric/processedMods/fiblib-1.0.2-ce5e54665883562e.jar"
+          }
+        },
+        {
+          "id": "libblockattributes_core-0.8.7-5f4ca6049e8b67d2.jar",
+          "name": "libblockattributes_core-0.8.7-5f4ca6049e8b67d2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 127537,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/libblockattributes_core-0.8.7-5f4ca6049e8b67d2.jar",
+            "MD5": "23cf996703530e7f286c5fc8899468b0",
+            "path": "overrides/.fabric/processedMods/libblockattributes_core-0.8.7-5f4ca6049e8b67d2.jar"
+          }
+        },
+        {
+          "id": "libblockattributes_fluids-0.8.7-7e33639c06104ff7.jar",
+          "name": "libblockattributes_fluids-0.8.7-7e33639c06104ff7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 351834,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/libblockattributes_fluids-0.8.7-7e33639c06104ff7.jar",
+            "MD5": "586401c3549e3283ac63fbfcba7771c5",
+            "path": "overrides/.fabric/processedMods/libblockattributes_fluids-0.8.7-7e33639c06104ff7.jar"
+          }
+        },
+        {
+          "id": "libblockattributes_items-0.8.7-bbb56cee9edaf2ad.jar",
+          "name": "libblockattributes_items-0.8.7-bbb56cee9edaf2ad.jar",
+          "type": "File",
+          "artifact": {
+            "size": 193449,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/libblockattributes_items-0.8.7-bbb56cee9edaf2ad.jar",
+            "MD5": "abaf870d7db0ef9c1061a763f8d1c821",
+            "path": "overrides/.fabric/processedMods/libblockattributes_items-0.8.7-bbb56cee9edaf2ad.jar"
+          }
+        },
+        {
+          "id": "mixinextras-0.5.0-1f6627383f457848.jar",
+          "name": "mixinextras-0.5.0-1f6627383f457848.jar",
+          "type": "File",
+          "artifact": {
+            "size": 723339,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/mixinextras-0.5.0-1f6627383f457848.jar",
+            "MD5": "5b72d5095e702ff471c68535d77ffccd",
+            "path": "overrides/.fabric/processedMods/mixinextras-0.5.0-1f6627383f457848.jar"
+          }
+        },
+        {
+          "id": "org_apache_httpcomponents_httpclient-4.5.10-2236dfe1d2ea6fd6.jar",
+          "name": "org_apache_httpcomponents_httpclient-4.5.10-2236dfe1d2ea6fd6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 784010,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/org_apache_httpcomponents_httpclient-4.5.10-2236dfe1d2ea6fd6.jar",
+            "MD5": "8666b5ec237454dc43855b914a0ee963",
+            "path": "overrides/.fabric/processedMods/org_apache_httpcomponents_httpclient-4.5.10-2236dfe1d2ea6fd6.jar"
+          }
+        },
+        {
+          "id": "org_apache_httpcomponents_httpcore-4.4.12-f0e8729ff8ec6179.jar",
+          "name": "org_apache_httpcomponents_httpcore-4.4.12-f0e8729ff8ec6179.jar",
+          "type": "File",
+          "artifact": {
+            "size": 333647,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/org_apache_httpcomponents_httpcore-4.4.12-f0e8729ff8ec6179.jar",
+            "MD5": "4e7fa288d2e9dcc183207174273c1071",
+            "path": "overrides/.fabric/processedMods/org_apache_httpcomponents_httpcore-4.4.12-f0e8729ff8ec6179.jar"
+          }
+        },
+        {
+          "id": "org_apache_httpcomponents_httpmime-4.5.10-24363e235e29eaee.jar",
+          "name": "org_apache_httpcomponents_httpmime-4.5.10-24363e235e29eaee.jar",
+          "type": "File",
+          "artifact": {
+            "size": 42720,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/org_apache_httpcomponents_httpmime-4.5.10-24363e235e29eaee.jar",
+            "MD5": "b62c7e1cb948f9ed09813d2e4efac94f",
+            "path": "overrides/.fabric/processedMods/org_apache_httpcomponents_httpmime-4.5.10-24363e235e29eaee.jar"
+          }
+        },
+        {
+          "id": "stacc-1.0.1-5c69a5459985c71b.jar",
+          "name": "stacc-1.0.1-5c69a5459985c71b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21162,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/stacc-1.0.1-5c69a5459985c71b.jar",
+            "MD5": "7a4f62273dc9669065ae548fb1bee9d7",
+            "path": "overrides/.fabric/processedMods/stacc-1.0.1-5c69a5459985c71b.jar"
+          }
+        },
+        {
+          "id": "team_reborn_energy-0.1.1-5fb3e115f822621e.jar",
+          "name": "team_reborn_energy-0.1.1-5fb3e115f822621e.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16438,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/team_reborn_energy-0.1.1-5fb3e115f822621e.jar",
+            "MD5": "6316ec5a21bdbf9a974f5f5f4f77c888",
+            "path": "overrides/.fabric/processedMods/team_reborn_energy-0.1.1-5fb3e115f822621e.jar"
+          }
+        },
+        {
+          "id": "terraform-shapes-api-v1-1.0.4-e649e21abdee596b.jar",
+          "name": "terraform-shapes-api-v1-1.0.4-e649e21abdee596b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 33295,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/terraform-shapes-api-v1-1.0.4-e649e21abdee596b.jar",
+            "MD5": "1817614ccdd30c50388801940f0335c3",
+            "path": "overrides/.fabric/processedMods/terraform-shapes-api-v1-1.0.4-e649e21abdee596b.jar"
+          }
+        },
+        {
+          "id": "terraform-tree-api-v1-1.0.5-de48718ca3cfa244.jar",
+          "name": "terraform-tree-api-v1-1.0.5-de48718ca3cfa244.jar",
+          "type": "File",
+          "artifact": {
+            "size": 12875,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/terraform-tree-api-v1-1.0.5-de48718ca3cfa244.jar",
+            "MD5": "ba7456e6f792d09237b11518dac1f132",
+            "path": "overrides/.fabric/processedMods/terraform-tree-api-v1-1.0.5-de48718ca3cfa244.jar"
+          }
+        },
+        {
+          "id": "transition-1.0.7-31ff3bb3bb8aa92.jar",
+          "name": "transition-1.0.7-31ff3bb3bb8aa92.jar",
+          "type": "File",
+          "artifact": {
+            "size": 71652,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/transition-1.0.7-31ff3bb3bb8aa92.jar",
+            "MD5": "37823cbd8cf0d9d7ecc96bde66283a99",
+            "path": "overrides/.fabric/processedMods/transition-1.0.7-31ff3bb3bb8aa92.jar"
+          }
+        },
+        {
+          "id": "trender-1.0.8-420a064e7d9adca7.jar",
+          "name": "trender-1.0.8-420a064e7d9adca7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 359933,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/trender-1.0.8-420a064e7d9adca7.jar",
+            "MD5": "1d01e8703a02b3c44a028efaaca1c917",
+            "path": "overrides/.fabric/processedMods/trender-1.0.8-420a064e7d9adca7.jar"
+          }
+        },
+        {
+          "id": "voicechat_api-2.6.0-620d9899370b6fb.jar",
+          "name": "voicechat_api-2.6.0-620d9899370b6fb.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2459,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/voicechat_api-2.6.0-620d9899370b6fb.jar",
+            "MD5": "70dba2fda5bb1656565bd39286732f7f",
+            "path": "overrides/.fabric/processedMods/voicechat_api-2.6.0-620d9899370b6fb.jar"
+          }
+        },
+        {
+          "id": "xlpackets-1.1-9bb3de642f79952b.jar",
+          "name": "xlpackets-1.1-9bb3de642f79952b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6930,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/processedMods/xlpackets-1.1-9bb3de642f79952b.jar",
+            "MD5": "72c64a0a319c37517bc2514b6350badb",
+            "path": "overrides/.fabric/processedMods/xlpackets-1.1-9bb3de642f79952b.jar"
+          }
+        },
+        {
+          "id": "client-intermediary.jar",
+          "name": "client-intermediary.jar",
+          "type": "File",
+          "artifact": {
+            "size": 18555453,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/.fabric/remappedJars/minecraft-1.16.5-0.17.3/client-intermediary.jar",
+            "MD5": "5efc0c2d80198bcaba6bd352e91a1ceb",
+            "path": "overrides/.fabric/remappedJars/minecraft-1.16.5-0.17.3/client-intermediary.jar"
+          }
+        },
+        {
+          "id": "ae2wtlib.json5",
+          "name": "ae2wtlib.json5",
+          "type": "File",
+          "artifact": {
+            "size": 143,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/ae2wtlib.json5",
+            "MD5": "8e31bbb29d8b1a73f0aacc7b5f2d3608",
+            "path": "overrides/config/ae2wtlib.json5"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/config.json",
+            "MD5": "0bc8da87bbbfa3a4ddb54356594f81d7",
+            "path": "overrides/config/alloy_forgery/config.json"
+          }
+        },
+        {
+          "id": "fuels.json",
+          "name": "fuels.json",
+          "type": "File",
+          "artifact": {
+            "size": 299,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/fuels.json",
+            "MD5": "c3b350bfa25f89f10b725edb456b45ff",
+            "path": "overrides/config/alloy_forgery/fuels.json"
+          }
+        },
+        {
+          "id": "material_worth.json",
+          "name": "material_worth.json",
+          "type": "File",
+          "artifact": {
+            "size": 17439,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/material_worth.json",
+            "MD5": "25757ab34ee088ddef29d9417b4346b8",
+            "path": "overrides/config/alloy_forgery/material_worth.json"
+          }
+        },
+        {
+          "id": "recipes.json",
+          "name": "recipes.json",
+          "type": "File",
+          "artifact": {
+            "size": 10280,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/recipes.json",
+            "MD5": "72e8c2d366b8f9958eb24794801cdc6d",
+            "path": "overrides/config/alloy_forgery/recipes.json"
+          }
+        },
+        {
+          "id": "smelteries.json",
+          "name": "smelteries.json",
+          "type": "File",
+          "artifact": {
+            "size": 1702,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/smelteries.json",
+            "MD5": "9b7497e960be32dd66132a6783fb3830",
+            "path": "overrides/config/alloy_forgery/smelteries.json"
+          }
+        },
+        {
+          "id": "blackstone_forge_controller_front.png",
+          "name": "blackstone_forge_controller_front.png",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/blackstone_forge_controller_front.png",
+            "MD5": "7d049fa7397c85e42db7a33f22744c67",
+            "path": "overrides/config/alloy_forgery/textures/blackstone_forge_controller_front.png"
+          }
+        },
+        {
+          "id": "blackstone_forge_controller_front_on.png",
+          "name": "blackstone_forge_controller_front_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 840,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/blackstone_forge_controller_front_on.png",
+            "MD5": "a750671301946382746962750a41eaac",
+            "path": "overrides/config/alloy_forgery/textures/blackstone_forge_controller_front_on.png"
+          }
+        },
+        {
+          "id": "blackstone_forge_controller_front_on.png.mcmeta",
+          "name": "blackstone_forge_controller_front_on.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/blackstone_forge_controller_front_on.png.mcmeta",
+            "MD5": "c5a0d246b7355efa4a91fbcebd9f0957",
+            "path": "overrides/config/alloy_forgery/textures/blackstone_forge_controller_front_on.png.mcmeta"
+          }
+        },
+        {
+          "id": "blackstone_forge_controller_side.png",
+          "name": "blackstone_forge_controller_side.png",
+          "type": "File",
+          "artifact": {
+            "size": 438,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/blackstone_forge_controller_side.png",
+            "MD5": "52c6ad186e7686c9bf5d7c42cde6bbdb",
+            "path": "overrides/config/alloy_forgery/textures/blackstone_forge_controller_side.png"
+          }
+        },
+        {
+          "id": "blackstone_forge_controller_top.png",
+          "name": "blackstone_forge_controller_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 438,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/blackstone_forge_controller_top.png",
+            "MD5": "52c6ad186e7686c9bf5d7c42cde6bbdb",
+            "path": "overrides/config/alloy_forgery/textures/blackstone_forge_controller_top.png"
+          }
+        },
+        {
+          "id": "bricks_forge_controller_front.png",
+          "name": "bricks_forge_controller_front.png",
+          "type": "File",
+          "artifact": {
+            "size": 500,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/bricks_forge_controller_front.png",
+            "MD5": "7bf3ecbdc2c6414ed507a05dbad41807",
+            "path": "overrides/config/alloy_forgery/textures/bricks_forge_controller_front.png"
+          }
+        },
+        {
+          "id": "bricks_forge_controller_front_on.png",
+          "name": "bricks_forge_controller_front_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 882,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/bricks_forge_controller_front_on.png",
+            "MD5": "8a7afbbbd4f95ae32b7fd2b20445c1ef",
+            "path": "overrides/config/alloy_forgery/textures/bricks_forge_controller_front_on.png"
+          }
+        },
+        {
+          "id": "bricks_forge_controller_front_on.png.mcmeta",
+          "name": "bricks_forge_controller_front_on.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/bricks_forge_controller_front_on.png.mcmeta",
+            "MD5": "c5a0d246b7355efa4a91fbcebd9f0957",
+            "path": "overrides/config/alloy_forgery/textures/bricks_forge_controller_front_on.png.mcmeta"
+          }
+        },
+        {
+          "id": "bricks_forge_controller_side.png",
+          "name": "bricks_forge_controller_side.png",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/bricks_forge_controller_side.png",
+            "MD5": "fa2e0fbc857912bb948cb47bf7cf6d72",
+            "path": "overrides/config/alloy_forgery/textures/bricks_forge_controller_side.png"
+          }
+        },
+        {
+          "id": "bricks_forge_controller_top.png",
+          "name": "bricks_forge_controller_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 1051,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/bricks_forge_controller_top.png",
+            "MD5": "e006be33bae0777b4e5bf46c111a96da",
+            "path": "overrides/config/alloy_forgery/textures/bricks_forge_controller_top.png"
+          }
+        },
+        {
+          "id": "end_stone_forge_controller_front.png",
+          "name": "end_stone_forge_controller_front.png",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/end_stone_forge_controller_front.png",
+            "MD5": "3c93b13a7803a08e4d17ddb0a8cbc803",
+            "path": "overrides/config/alloy_forgery/textures/end_stone_forge_controller_front.png"
+          }
+        },
+        {
+          "id": "end_stone_forge_controller_front_on.png",
+          "name": "end_stone_forge_controller_front_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 395,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/end_stone_forge_controller_front_on.png",
+            "MD5": "dfa5df6895907c3876bfe1f93b9fe3ea",
+            "path": "overrides/config/alloy_forgery/textures/end_stone_forge_controller_front_on.png"
+          }
+        },
+        {
+          "id": "end_stone_forge_controller_front_on.png.mcmeta",
+          "name": "end_stone_forge_controller_front_on.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/end_stone_forge_controller_front_on.png.mcmeta",
+            "MD5": "c5a0d246b7355efa4a91fbcebd9f0957",
+            "path": "overrides/config/alloy_forgery/textures/end_stone_forge_controller_front_on.png.mcmeta"
+          }
+        },
+        {
+          "id": "end_stone_forge_controller_side.png",
+          "name": "end_stone_forge_controller_side.png",
+          "type": "File",
+          "artifact": {
+            "size": 268,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/end_stone_forge_controller_side.png",
+            "MD5": "20a6ceb93b01261b6aa5798f721fdf73",
+            "path": "overrides/config/alloy_forgery/textures/end_stone_forge_controller_side.png"
+          }
+        },
+        {
+          "id": "end_stone_forge_controller_top.png",
+          "name": "end_stone_forge_controller_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 645,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/end_stone_forge_controller_top.png",
+            "MD5": "aa5b4318813a757b5aadef40da471c42",
+            "path": "overrides/config/alloy_forgery/textures/end_stone_forge_controller_top.png"
+          }
+        },
+        {
+          "id": "stone_brick_forge_controller_front.png",
+          "name": "stone_brick_forge_controller_front.png",
+          "type": "File",
+          "artifact": {
+            "size": 408,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front.png",
+            "MD5": "85358edf212756eeb5eeb8df7845cd26",
+            "path": "overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front.png"
+          }
+        },
+        {
+          "id": "stone_brick_forge_controller_front_on.png",
+          "name": "stone_brick_forge_controller_front_on.png",
+          "type": "File",
+          "artifact": {
+            "size": 846,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front_on.png",
+            "MD5": "1a498830992275ff89d6595834377f46",
+            "path": "overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front_on.png"
+          }
+        },
+        {
+          "id": "stone_brick_forge_controller_front_on.png.mcmeta",
+          "name": "stone_brick_forge_controller_front_on.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front_on.png.mcmeta",
+            "MD5": "c5a0d246b7355efa4a91fbcebd9f0957",
+            "path": "overrides/config/alloy_forgery/textures/stone_brick_forge_controller_front_on.png.mcmeta"
+          }
+        },
+        {
+          "id": "stone_brick_forge_controller_side.png",
+          "name": "stone_brick_forge_controller_side.png",
+          "type": "File",
+          "artifact": {
+            "size": 396,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/stone_brick_forge_controller_side.png",
+            "MD5": "5b3b07e15a71afb4e11945e98cc88c99",
+            "path": "overrides/config/alloy_forgery/textures/stone_brick_forge_controller_side.png"
+          }
+        },
+        {
+          "id": "stone_brick_forge_controller_top.png",
+          "name": "stone_brick_forge_controller_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 396,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/alloy_forgery/textures/stone_brick_forge_controller_top.png",
+            "MD5": "5b3b07e15a71afb4e11945e98cc88c99",
+            "path": "overrides/config/alloy_forgery/textures/stone_brick_forge_controller_top.png"
+          }
+        },
+        {
+          "id": "client.json",
+          "name": "client.json",
+          "type": "File",
+          "artifact": {
+            "size": 804,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/appliedenergistics2/client.json",
+            "MD5": "703c47143e6bbf2df2ca45b8beae3fbc",
+            "path": "overrides/config/appliedenergistics2/client.json"
+          }
+        },
+        {
+          "id": "common.json",
+          "name": "common.json",
+          "type": "File",
+          "artifact": {
+            "size": 4530,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/appliedenergistics2/common.json",
+            "MD5": "9eab10c3974754c93219d99f747fad63",
+            "path": "overrides/config/appliedenergistics2/common.json"
+          }
+        },
+        {
+          "id": "byg-biomes.json",
+          "name": "byg-biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 29052,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/byg/byg-biomes.json",
+            "MD5": "318bc2ee3771302abe74b2a814f1a319",
+            "path": "overrides/config/byg/byg-biomes.json"
+          }
+        },
+        {
+          "id": "byg-sub-biomes.json",
+          "name": "byg-sub-biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 18853,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/byg/byg-sub-biomes.json",
+            "MD5": "4eea66bcc2092ea0b25d7921fff7cbfe",
+            "path": "overrides/config/byg/byg-sub-biomes.json"
+          }
+        },
+        {
+          "id": "cavebiomes.json",
+          "name": "cavebiomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 584,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/cavebiomes.json",
+            "MD5": "83bc7eb1766735a06093137855c1dee9",
+            "path": "overrides/config/cavebiomes.json"
+          }
+        },
+        {
+          "id": "debug.json",
+          "name": "debug.json",
+          "type": "File",
+          "artifact": {
+            "size": 48,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/dawn/debug.json",
+            "MD5": "b2a09c7a97e923c4451ed679391182b0",
+            "path": "overrides/config/dawn/debug.json"
+          }
+        },
+        {
+          "id": "features.json",
+          "name": "features.json",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/dawn/features.json",
+            "MD5": "50ed23a9dd992d5dae1b0d90c225e39e",
+            "path": "overrides/config/dawn/features.json"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 36,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/enchant_giver/config.json",
+            "MD5": "3b205fe285fc824696d6657e5f39df07",
+            "path": "overrides/config/enchant_giver/config.json"
+          }
+        },
+        {
+          "id": "enchants.json",
+          "name": "enchants.json",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/enchant_giver/enchants.json",
+            "MD5": "904c7374ed3ee08b024661734fb517e9",
+            "path": "overrides/config/enchant_giver/enchants.json"
+          }
+        },
+        {
+          "id": "example.yaml",
+          "name": "example.yaml",
+          "type": "File",
+          "artifact": {
+            "size": 514,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/enchant_giver/example.yaml",
+            "MD5": "c7c7af35c409979b1c7fabb704561a66",
+            "path": "overrides/config/enchant_giver/example.yaml"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/fabric/indigo-renderer.properties",
+            "MD5": "43c066d25f0455f30c57719f2a7b270c",
+            "path": "overrides/config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fallingtree.json5",
+          "name": "fallingtree.json5",
+          "type": "File",
+          "artifact": {
+            "size": 5295,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/fallingtree.json5",
+            "MD5": "1060b14efa87c534e4ecb5440136ffe9",
+            "path": "overrides/config/fallingtree.json5"
+          }
+        },
+        {
+          "id": "indium-renderer.properties",
+          "name": "indium-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/indium-renderer.properties",
+            "MD5": "e269016c9be3e09b808e6064cfcac2cd",
+            "path": "overrides/config/indium-renderer.properties"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 350,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/lithium.properties",
+            "MD5": "681c81eaf825ba3d11097adaf017e39b",
+            "path": "overrides/config/lithium.properties"
+          }
+        },
+        {
+          "id": "ores.json",
+          "name": "ores.json",
+          "type": "File",
+          "artifact": {
+            "size": 3783,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/mythic_metals/ores.json",
+            "MD5": "84082c828e87b185f45589716c76ef4e",
+            "path": "overrides/config/mythic_metals/ores.json"
+          }
+        },
+        {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 2446,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/notenoughanimations.json",
+            "MD5": "43637ba5fb80810089be314ce052b9bd",
+            "path": "overrides/config/notenoughanimations.json"
+          }
+        },
+        {
+          "id": "pfm.json",
+          "name": "pfm.json",
+          "type": "File",
+          "artifact": {
+            "size": 408,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/pfm.json",
+            "MD5": "a5dbf74693baae3c9622eef2b12290a1",
+            "path": "overrides/config/pfm.json"
+          }
+        },
+        {
+          "id": "biomes.json",
+          "name": "biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/promenade/biomes.json",
+            "MD5": "7a2457e49d254302f28d5cfe6ef5320a",
+            "path": "overrides/config/promenade/biomes.json"
+          }
+        },
+        {
+          "id": "creatures.json",
+          "name": "creatures.json",
+          "type": "File",
+          "artifact": {
+            "size": 19,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/promenade/creatures.json",
+            "MD5": "aece103abd9150c15b23bc3e281e0ac4",
+            "path": "overrides/config/promenade/creatures.json"
+          }
+        },
+        {
+          "id": "features.json",
+          "name": "features.json",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/promenade/features.json",
+            "MD5": "cef1848df9e2a2e7fe98420a93a65c8e",
+            "path": "overrides/config/promenade/features.json"
+          }
+        },
+        {
+          "id": "structures.json",
+          "name": "structures.json",
+          "type": "File",
+          "artifact": {
+            "size": 24,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/promenade/structures.json",
+            "MD5": "8d38fe7a6fc8d69a135e71d71c97fecd",
+            "path": "overrides/config/promenade/structures.json"
+          }
+        },
+        {
+          "id": "misc.json",
+          "name": "misc.json",
+          "type": "File",
+          "artifact": {
+            "size": 275,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/reborncore/misc.json",
+            "MD5": "174b0ffbce91b1e859382e544008be1d",
+            "path": "overrides/config/reborncore/misc.json"
+          }
+        },
+        {
+          "id": "rrls.toml",
+          "name": "rrls.toml",
+          "type": "File",
+          "artifact": {
+            "size": 175,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/rrls.toml",
+            "MD5": "d112ad86b06b9bb71d4d7826dd176746",
+            "path": "overrides/config/rrls.toml"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/sodium-mixins.properties",
+            "MD5": "6f5f12de22f04364e57a623174cf1484",
+            "path": "overrides/config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "generators.json",
+          "name": "generators.json",
+          "type": "File",
+          "artifact": {
+            "size": 5891,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/techreborn/generators.json",
+            "MD5": "99156e6467b12ba54fd6410bca82304f",
+            "path": "overrides/config/techreborn/generators.json"
+          }
+        },
+        {
+          "id": "items.json",
+          "name": "items.json",
+          "type": "File",
+          "artifact": {
+            "size": 5633,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/techreborn/items.json",
+            "MD5": "e045e76e25981919c60759d4b09e47cf",
+            "path": "overrides/config/techreborn/items.json"
+          }
+        },
+        {
+          "id": "machines.json",
+          "name": "machines.json",
+          "type": "File",
+          "artifact": {
+            "size": 10730,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/techreborn/machines.json",
+            "MD5": "512acb27ca01e6f133bc383e36cac6d0",
+            "path": "overrides/config/techreborn/machines.json"
+          }
+        },
+        {
+          "id": "misc.json",
+          "name": "misc.json",
+          "type": "File",
+          "artifact": {
+            "size": 1595,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/techreborn/misc.json",
+            "MD5": "5f5a976e696aece85e8f8ea18d13149b",
+            "path": "overrides/config/techreborn/misc.json"
+          }
+        },
+        {
+          "id": "world.json",
+          "name": "world.json",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/techreborn/world.json",
+            "MD5": "3fc830b5ed5843c81a759329c37907d7",
+            "path": "overrides/config/techreborn/world.json"
+          }
+        },
+        {
+          "id": "category-volumes.properties",
+          "name": "category-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "path": "overrides/config/voicechat/category-volumes.properties"
+          }
+        },
+        {
+          "id": "player-volumes.properties",
+          "name": "player-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "path": "overrides/config/voicechat/player-volumes.properties"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "overrides/config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4791,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/voicechat/voicechat-client.properties",
+            "MD5": "58841e766b1f99cd0953f8f8953b5331",
+            "path": "overrides/config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2441,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/voicechat/voicechat-server.properties",
+            "MD5": "d48006866cec2eea8e4e0e6d1227beb5",
+            "path": "overrides/config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "waila.json",
+          "name": "waila.json",
+          "type": "File",
+          "artifact": {
+            "size": 1083,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/waila/waila.json",
+            "MD5": "2ef693b1cfa12b79c8347f06d9232ae6",
+            "path": "overrides/config/waila/waila.json"
+          }
+        },
+        {
+          "id": "waila_plugins.json",
+          "name": "waila_plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 409,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/waila/waila_plugins.json",
+            "MD5": "82ff1c12dca8f35b1e0073fa1ef523f3",
+            "path": "overrides/config/waila/waila_plugins.json"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 2425,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/waystones/config.json",
+            "MD5": "46f4c09afd1b3724631281dc3cff88be",
+            "path": "overrides/config/waystones/config.json"
+          }
+        },
+        {
+          "id": "xaerominimap-common.txt",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/xaerominimap-common.txt",
+            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
+            "path": "overrides/config/xaerominimap-common.txt"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3548,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/xaerominimap.txt",
+            "MD5": "ba6504cb0658573fc35d4013ff9337a4",
+            "path": "overrides/config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaerominimap_entities.json",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/xaerominimap_entities.json",
+            "MD5": "71086272395ab15f8fdaad8e2c7320da",
+            "path": "overrides/config/xaerominimap_entities.json"
+          }
+        },
+        {
+          "id": "xaeropatreon.txt",
+          "name": "xaeropatreon.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/overrides/config/xaeropatreon.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "overrides/config/xaeropatreon.txt"
+          }
         }
       ]
     }
