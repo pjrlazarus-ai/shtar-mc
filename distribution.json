@@ -10,9 +10,9 @@
     {
       "id": "ShtarMC-1.16.5",
       "name": "ShtarMC (Minecraft 1.16.5)",
-      "description": "ShtarMC Running Minecraft 1.16.5",
+      "description": "ShtarMC Running Minecraft 1.16.5 (Fabric v0.18.10)",
       "icon": null,
-      "version": "",
+      "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -24,289 +24,355 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "AE2WTLib-1.2.6-release.jar",
-          "name": "AE2WTLib-1.2.6-release.jar",
-          "type": "File",
+          "id": "net.fabricmc:fabric-loader:0.18.1",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1944103,
+            "MD5": "eee78db537e19297a4a5966bdad51291",
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.16.5-fabric-0.18.10",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "0135e3d4e514e0f964b24eb8021d4a5e",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/versions/1.16.5-fabric-0.18.10/1.16.5-fabric-0.18.10.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.16.5",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 406376,
+                "MD5": "abadf31a3b1b8b128cde5debcee93686",
+                "url": "https://pjrlazarus-ai.github.io/shtar-mc/repo/lib/net/fabricmc/intermediary/1.16.5/intermediary-1.16.5.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "de.mari_023:ae2wtlib:${version}@jar",
+          "name": "AE2WTLib",
+          "type": "FabricMod",
           "artifact": {
             "size": 229586,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/AE2WTLib-1.2.6-release.jar",
-            "MD5": "0b1a32d8cb5cc033bc9ce15131086751",
-            "path": "mods/AE2WTLib-1.2.6-release.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/AE2WTLib-1.2.6-release.jar",
+            "MD5": "0b1a32d8cb5cc033bc9ce15131086751"
           }
         },
         {
-          "id": "appliedenergistics2-fabric-8.4.0-alpha.3.jar",
-          "name": "appliedenergistics2-fabric-8.4.0-alpha.3.jar",
-          "type": "File",
+          "id": "appeng.core:appliedenergistics2:8.4.0-alpha.3@jar",
+          "name": "Applied Energistics 2",
+          "type": "FabricMod",
           "artifact": {
             "size": 5047166,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/appliedenergistics2-fabric-8.4.0-alpha.3.jar",
-            "MD5": "b56f788fcbec33a34f3423a28806b621",
-            "path": "mods/appliedenergistics2-fabric-8.4.0-alpha.3.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/appliedenergistics2-fabric-8.4.0-alpha.3.jar",
+            "MD5": "b56f788fcbec33a34f3423a28806b621"
           }
         },
         {
-          "id": "architectury-1.32.68.jar",
-          "name": "architectury-1.32.68.jar",
-          "type": "File",
+          "id": "me.shedaniel.architectury.utils:architectury:1.32.68@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
           "artifact": {
             "size": 569839,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/architectury-1.32.68.jar",
-            "MD5": "b55243b08af0072c1dbeecf09243ab3b",
-            "path": "mods/architectury-1.32.68.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/architectury-1.32.68.jar",
+            "MD5": "b55243b08af0072c1dbeecf09243ab3b"
           }
         },
         {
-          "id": "bitsandchisels-2.3.2.jar",
-          "name": "bitsandchisels-2.3.2.jar",
-          "type": "File",
+          "id": "io.github.coolmineman:bitsandchisels:2.3.2@jar",
+          "name": "BitsAndChisels",
+          "type": "FabricMod",
           "artifact": {
             "size": 308808,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/bitsandchisels-2.3.2.jar",
-            "MD5": "aeed1a1f85f561806b4db94580ea6aea",
-            "path": "mods/bitsandchisels-2.3.2.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/bitsandchisels-2.3.2.jar",
+            "MD5": "aeed1a1f85f561806b4db94580ea6aea"
           }
         },
         {
-          "id": "byg-1.3.6.jar",
-          "name": "byg-1.3.6.jar",
-          "type": "File",
+          "id": "corgiaoc.byg.entrypoint:byg:1.3.6@jar",
+          "name": "BYG",
+          "type": "FabricMod",
           "artifact": {
             "size": 11274282,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/byg-1.3.6.jar",
-            "MD5": "7a6028134a7719c51d0e062655b1fa6b",
-            "path": "mods/byg-1.3.6.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/byg-1.3.6.jar",
+            "MD5": "7a6028134a7719c51d0e062655b1fa6b"
           }
         },
         {
-          "id": "cavebiomes-0.6.2.jar",
-          "name": "cavebiomes-0.6.2.jar",
-          "type": "File",
+          "id": "supercoder79.cavebiomes:cavebiomes:0.6.2@jar",
+          "name": "Cave Biomes",
+          "type": "FabricMod",
           "artifact": {
             "size": 153455,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/cavebiomes-0.6.2.jar",
-            "MD5": "5f3be5e45c69f64746ec17edccd611de",
-            "path": "mods/cavebiomes-0.6.2.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/cavebiomes-0.6.2.jar",
+            "MD5": "5f3be5e45c69f64746ec17edccd611de"
           }
         },
         {
-          "id": "cloth-config-4.14.54-fabric.jar",
-          "name": "cloth-config-4.14.54-fabric.jar",
-          "type": "File",
+          "id": "me.shedaniel.autoconfig.example:cloth-config2:4.14.54@jar",
+          "name": "Cloth Config v4",
+          "type": "FabricMod",
           "artifact": {
             "size": 1095579,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/cloth-config-4.14.54-fabric.jar",
-            "MD5": "4f3069c93677ac74b4e0b1c5a04fe70d",
-            "path": "mods/cloth-config-4.14.54-fabric.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/cloth-config-4.14.54-fabric.jar",
+            "MD5": "4f3069c93677ac74b4e0b1c5a04fe70d"
           }
         },
         {
-          "id": "dawn-1.8.jar",
-          "name": "dawn-1.8.jar",
-          "type": "File",
+          "id": "com.hugman:dawn:1.8@jar",
+          "name": "Dawn API",
+          "type": "FabricMod",
           "artifact": {
             "size": 1091755,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/dawn-1.8.jar",
-            "MD5": "b7f02c0d6be635bdff334d87cdcd882f",
-            "path": "mods/dawn-1.8.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/dawn-1.8.jar",
+            "MD5": "b7f02c0d6be635bdff334d87cdcd882f"
           }
         },
         {
-          "id": "fabric-api-0.42.0+1.16.jar",
-          "name": "fabric-api-0.42.0+1.16.jar",
-          "type": "File",
+          "id": "generated.fabricmod:fabric:0.42.0+1.16@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
           "artifact": {
             "size": 1090414,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/fabric-api-0.42.0+1.16.jar",
-            "MD5": "a0c502455195b498a8f5b4f5c15e6a04",
-            "path": "mods/fabric-api-0.42.0+1.16.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/fabric-api-0.42.0+1.16.jar",
+            "MD5": "a0c502455195b498a8f5b4f5c15e6a04"
           }
         },
         {
-          "id": "FallingTree-1.16.5-2.11.7.jar",
-          "name": "FallingTree-1.16.5-2.11.7.jar",
-          "type": "File",
+          "id": "fr.raksrinana:fallingtree:2.11.7@jar",
+          "name": "FallingTree",
+          "type": "FabricMod",
           "artifact": {
             "size": 1146731,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/FallingTree-1.16.5-2.11.7.jar",
-            "MD5": "8a2a5cd8a2843700f9efb0512aa320a8",
-            "path": "mods/FallingTree-1.16.5-2.11.7.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/FallingTree-1.16.5-2.11.7.jar",
+            "MD5": "8a2a5cd8a2843700f9efb0512aa320a8"
           }
         },
         {
-          "id": "Hwyla-fabric-1.16.2-1.9.23-79.jar",
-          "name": "Hwyla-fabric-1.16.2-1.9.23-79.jar",
-          "type": "File",
+          "id": "mcp.mobius:waila:1.9.22@jar",
+          "name": "Hwyla",
+          "type": "FabricMod",
           "artifact": {
             "size": 267781,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/Hwyla-fabric-1.16.2-1.9.23-79.jar",
-            "MD5": "72046a67875fc5747346effd9015adfb",
-            "path": "mods/Hwyla-fabric-1.16.2-1.9.23-79.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/Hwyla-fabric-1.16.2-1.9.23-79.jar",
+            "MD5": "72046a67875fc5747346effd9015adfb"
           }
         },
         {
-          "id": "indium-1.0.0+mc1.16.5.jar",
-          "name": "indium-1.0.0+mc1.16.5.jar",
-          "type": "File",
+          "id": "link.infra:indium:1.0.0+mc1.16.5@jar",
+          "name": "Indium",
+          "type": "FabricMod",
           "artifact": {
             "size": 114793,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/indium-1.0.0+mc1.16.5.jar",
-            "MD5": "4247babd00fe95c49926f30e3b14bb8f",
-            "path": "mods/indium-1.0.0+mc1.16.5.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/indium-1.0.0+mc1.16.5.jar",
+            "MD5": "4247babd00fe95c49926f30e3b14bb8f"
           }
         },
         {
-          "id": "lithium-fabric-mc1.16.5-0.6.6.jar",
-          "name": "lithium-fabric-mc1.16.5-0.6.6.jar",
-          "type": "File",
+          "id": "me.jellysquid.mods:lithium:0.6.6@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
           "artifact": {
             "size": 349400,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/lithium-fabric-mc1.16.5-0.6.6.jar",
-            "MD5": "19f9a82b0753ae21430761a8916f0533",
-            "path": "mods/lithium-fabric-mc1.16.5-0.6.6.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/lithium-fabric-mc1.16.5-0.6.6.jar",
+            "MD5": "19f9a82b0753ae21430761a8916f0533"
           }
         },
         {
-          "id": "mythicmetals-0.9.11.jar",
-          "name": "mythicmetals-0.9.11.jar",
-          "type": "File",
+          "id": "nourl.mythicmetals:mythicmetals:0.9.11@jar",
+          "name": "Mythic Metals",
+          "type": "FabricMod",
           "artifact": {
             "size": 1696455,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/mythicmetals-0.9.11.jar",
-            "MD5": "d80ee67157c8376ec69cf6344eec249c",
-            "path": "mods/mythicmetals-0.9.11.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/mythicmetals-0.9.11.jar",
+            "MD5": "d80ee67157c8376ec69cf6344eec249c"
           }
         },
         {
-          "id": "notenoughanimations-fabric-1.10.6-mc1.16.5.jar",
-          "name": "notenoughanimations-fabric-1.10.6-mc1.16.5.jar",
-          "type": "File",
+          "id": "dev.tr7zw:notenoughanimations:1.10.6@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
           "artifact": {
             "size": 818204,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/notenoughanimations-fabric-1.10.6-mc1.16.5.jar",
-            "MD5": "d137168f5b04513997eccf9427189838",
-            "path": "mods/notenoughanimations-fabric-1.10.6-mc1.16.5.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/notenoughanimations-fabric-1.10.6-mc1.16.5.jar",
+            "MD5": "d137168f5b04513997eccf9427189838"
           }
         },
         {
-          "id": "paladin-furniture-mod-1.4.4-fabric-mc1.16.5.jar",
-          "name": "paladin-furniture-mod-1.4.4-fabric-mc1.16.5.jar",
-          "type": "File",
+          "id": "com.unlikepaladin:pfm:1.4.4@jar",
+          "name": "Paladin's Furniture",
+          "type": "FabricMod",
           "artifact": {
             "size": 5665403,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/paladin-furniture-mod-1.4.4-fabric-mc1.16.5.jar",
-            "MD5": "09f56eef33f3e35f22ad00cd0bb476c9",
-            "path": "mods/paladin-furniture-mod-1.4.4-fabric-mc1.16.5.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/paladin-furniture-mod-1.4.4-fabric-mc1.16.5.jar",
+            "MD5": "09f56eef33f3e35f22ad00cd0bb476c9"
           }
         },
         {
-          "id": "promenade-2.0.jar",
-          "name": "promenade-2.0.jar",
-          "type": "File",
+          "id": "com.hugman:promenade:2.0@jar",
+          "name": "Promenade",
+          "type": "FabricMod",
           "artifact": {
             "size": 725130,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/promenade-2.0.jar",
-            "MD5": "99565bd1a6fb12e291ea8799779da360",
-            "path": "mods/promenade-2.0.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/promenade-2.0.jar",
+            "MD5": "99565bd1a6fb12e291ea8799779da360"
           }
         },
         {
-          "id": "RebornCore-1.16-4.7.3+build.136.jar",
-          "name": "RebornCore-1.16-4.7.3+build.136.jar",
-          "type": "File",
+          "id": "reborncore:reborncore:4.7.3+build.136@jar",
+          "name": "Reborn Core",
+          "type": "FabricMod",
           "artifact": {
             "size": 537880,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/RebornCore-1.16-4.7.3+build.136.jar",
-            "MD5": "721e38ccab014eafa4e73f78104e7624",
-            "path": "mods/RebornCore-1.16-4.7.3+build.136.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/RebornCore-1.16-4.7.3+build.136.jar",
+            "MD5": "721e38ccab014eafa4e73f78104e7624"
           }
         },
         {
-          "id": "Rrls-1.5.1-fabric.jar",
-          "name": "Rrls-1.5.1-fabric.jar",
-          "type": "File",
+          "id": "com.github.dimadencep.mods:rrls:1.5.1-fabric@jar",
+          "name": "Remove Reloading Screen",
+          "type": "FabricMod",
           "artifact": {
             "size": 1145781,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/Rrls-1.5.1-fabric.jar",
-            "MD5": "53e9b46cb4a8b14b87a292604048241a",
-            "path": "mods/Rrls-1.5.1-fabric.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/Rrls-1.5.1-fabric.jar",
+            "MD5": "53e9b46cb4a8b14b87a292604048241a"
           }
         },
         {
-          "id": "sit-1.16.5-11.jar",
-          "name": "sit-1.16.5-11.jar",
-          "type": "File",
+          "id": "bl4ckscor3.mod:sit:1.16.5-11@jar",
+          "name": "Sit",
+          "type": "FabricMod",
           "artifact": {
             "size": 76477,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/sit-1.16.5-11.jar",
-            "MD5": "21ae2e816f1f2072f88eb05893916adb",
-            "path": "mods/sit-1.16.5-11.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/sit-1.16.5-11.jar",
+            "MD5": "21ae2e816f1f2072f88eb05893916adb"
           }
         },
         {
-          "id": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-          "name": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-          "type": "File",
+          "id": "me.jellysquid.mods:sodium:0.2.0+build.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
           "artifact": {
             "size": 507710,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-            "MD5": "98914f22cfe2d0ea5d8007ae8ff96062",
-            "path": "mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+            "MD5": "98914f22cfe2d0ea5d8007ae8ff96062"
           }
         },
         {
-          "id": "TechReborn-1.16-3.8.4+build.236.jar",
-          "name": "TechReborn-1.16-3.8.4+build.236.jar",
-          "type": "File",
+          "id": "techreborn:techreborn:3.8.4+build.236@jar",
+          "name": "Tech Reborn",
+          "type": "FabricMod",
           "artifact": {
             "size": 3783569,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/TechReborn-1.16-3.8.4+build.236.jar",
-            "MD5": "1a5aa028ca47f6db8b23aad276baf928",
-            "path": "mods/TechReborn-1.16-3.8.4+build.236.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/TechReborn-1.16-3.8.4+build.236.jar",
+            "MD5": "1a5aa028ca47f6db8b23aad276baf928"
           }
         },
         {
-          "id": "voicechat-fabric-1.16.5-2.6.6.jar",
-          "name": "voicechat-fabric-1.16.5-2.6.6.jar",
-          "type": "File",
+          "id": "de.maxhenkel:voicechat:1.16.5-2.6.6@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
           "artifact": {
             "size": 5110083,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/voicechat-fabric-1.16.5-2.6.6.jar",
-            "MD5": "fd17fda0f203437596bf9724ad86c38a",
-            "path": "mods/voicechat-fabric-1.16.5-2.6.6.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/voicechat-fabric-1.16.5-2.6.6.jar",
+            "MD5": "fd17fda0f203437596bf9724ad86c38a"
           }
         },
         {
-          "id": "wraith-alloy_forgery-1.2.0.jar",
-          "name": "wraith-alloy_forgery-1.2.0.jar",
-          "type": "File",
+          "id": "wraith.alloy_forgery:alloy_forgery:1.2.0@jar",
+          "name": "Alloy Forgery",
+          "type": "FabricMod",
           "artifact": {
             "size": 108906,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/wraith-alloy_forgery-1.2.0.jar",
-            "MD5": "8ef35144d8e399a12bf7a1881ed52202",
-            "path": "mods/wraith-alloy_forgery-1.2.0.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/wraith-alloy_forgery-1.2.0.jar",
+            "MD5": "8ef35144d8e399a12bf7a1881ed52202"
           }
         },
         {
-          "id": "wraith-waystones-2.0.2-1.16.5.jar",
-          "name": "wraith-waystones-2.0.2-1.16.5.jar",
-          "type": "File",
+          "id": "wraith.waystones:waystones:2.0.1@jar",
+          "name": "Waystones",
+          "type": "FabricMod",
           "artifact": {
             "size": 191154,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/wraith-waystones-2.0.2-1.16.5.jar",
-            "MD5": "e58af51fa6d8e2ef6205b4bc99c7483e",
-            "path": "mods/wraith-waystones-2.0.2-1.16.5.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/wraith-waystones-2.0.2-1.16.5.jar",
+            "MD5": "e58af51fa6d8e2ef6205b4bc99c7483e"
           }
         },
         {
-          "id": "Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar",
-          "name": "Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar",
-          "type": "File",
+          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
           "artifact": {
             "size": 1678422,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/files/mods/Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar",
-            "MD5": "448ff2af558b34c74ccf3e61b4641535",
-            "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar"
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.16.5.jar",
+            "MD5": "448ff2af558b34c74ccf3e61b4641535"
           }
         }
       ]
