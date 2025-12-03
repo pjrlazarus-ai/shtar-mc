@@ -13,14 +13,14 @@
       "description": "ShtarMC Running Minecraft 1.16.5 (Fabric v0.18.10)",
       "icon": null,
       "version": "1.0.0",
-      "address": "effects-moments.gl.joinmc.link:25565",
+      "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -203,6 +203,16 @@
             "size": 1090414,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/fabric-api-0.42.0+1.16.jar",
             "MD5": "a0c502455195b498a8f5b4f5c15e6a04"
+          }
+        },
+        {
+          "id": "com.example:rulesmod:1.0.0@jar",
+          "name": "Rules Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11307,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/fabric-example-mod-1.0.0.jar",
+            "MD5": "9a4f3e630cb04b8a312f38b22a1d1ae9"
           }
         },
         {
