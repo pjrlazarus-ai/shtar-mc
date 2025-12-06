@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/unmushin/Desktop/Nebula-master/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ShtarMCLite (Minecraft 1.16.5)",
+    "description": "ShtarMCLite Running Minecraft 1.16.5 (Fabric v0.18.10)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.18.10"
+  },
+  "untrackedFiles": []
+}
