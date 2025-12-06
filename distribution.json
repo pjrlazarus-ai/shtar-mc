@@ -226,6 +226,36 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbchunks:1605.3.4-build.220@jar",
+          "name": "FTB Chunks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 733489,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/ftb-chunks-fabric-1605.3.4-build.220.jar",
+            "MD5": "addfefa7d270a7d2bfa6b6cacbaea87c"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:1605.3.4-build.90@jar",
+          "name": "FTB Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 565356,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/ftb-library-fabric-1605.3.4-build.90.jar",
+            "MD5": "928be578736a9d8ef23513c3e50d6294"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1605.2.3-build.40@jar",
+          "name": "FTB Teams",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 168116,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/ftb-teams-fabric-1605.2.3-build.40.jar",
+            "MD5": "1327c708d1d3f200049515c57f649ce9"
+          }
+        },
+        {
           "id": "mcp.mobius:waila:1.9.22@jar",
           "name": "Hwyla",
           "type": "FabricMod",
@@ -774,6 +804,36 @@
             "size": 109960,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/ferritecore-2.1.1-fabric.jar",
             "MD5": "40fcf4130c80eb010769162cbd0e01b9"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbchunks:1605.3.4-build.220@jar",
+          "name": "FTB Chunks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 733489,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/ftb-chunks-fabric-1605.3.4-build.220.jar",
+            "MD5": "addfefa7d270a7d2bfa6b6cacbaea87c"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:1605.3.4-build.90@jar",
+          "name": "FTB Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 565356,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/ftb-library-fabric-1605.3.4-build.90.jar",
+            "MD5": "928be578736a9d8ef23513c3e50d6294"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1605.2.3-build.40@jar",
+          "name": "FTB Teams",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 168116,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/ftb-teams-fabric-1605.2.3-build.40.jar",
+            "MD5": "1327c708d1d3f200049515c57f649ce9"
           }
         },
         {
