@@ -146,6 +146,16 @@
           }
         },
         {
+          "id": "me.cominixo:betterf3:1.5.0@jar",
+          "name": "BetterF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1670168,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/BetterF3-1.5.0-Fabric-1.16.5.jar",
+            "MD5": "fdf4487834f634a6c6eff42dcceb12fa"
+          }
+        },
+        {
           "id": "io.github.coolmineman:bitsandchisels:2.3.2@jar",
           "name": "BitsAndChisels",
           "type": "FabricMod",
@@ -153,6 +163,16 @@
             "size": 308808,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/bitsandchisels-2.3.2.jar",
             "MD5": "aeed1a1f85f561806b4db94580ea6aea"
+          }
+        },
+        {
+          "id": "com.brand:blockus:2.1.12+1.16.5@jar",
+          "name": "Blockus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3967201,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/blockus-2.1.12+1.16.5.jar",
+            "MD5": "c11d8a5fc13106e0aa3a11b54e2d9b8c"
           }
         },
         {
@@ -193,6 +213,26 @@
             "size": 1091755,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/dawn-1.8.jar",
             "MD5": "b7f02c0d6be635bdff334d87cdcd882f"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:2.0.8@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 37620,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/EnchantmentDescriptions-Fabric-1.16.5-2.0.8.jar",
+            "MD5": "d7809e1ea9dae3e029d186db52481c21"
+          }
+        },
+        {
+          "id": "com.grimbo:chipped:1.1.1@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5337467,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/FABRIC_1.16.5_chipped-1.1.1.jar",
+            "MD5": "0b527795934e9777bc1789e6aaa65226"
           }
         },
         {
@@ -286,6 +326,16 @@
           }
         },
         {
+          "id": "com.terraformersmc:modmenu:1.16.23@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 317076,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/modmenu-1.16.23.jar",
+            "MD5": "e80d867cfb4e1cf286191f75ff28ca62"
+          }
+        },
+        {
           "id": "nourl.mythicmetals:mythicmetals:0.9.11@jar",
           "name": "Mythic Metals",
           "type": "FabricMod",
@@ -333,6 +383,16 @@
             "size": 537880,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/RebornCore-1.16-4.7.3+build.136.jar",
             "MD5": "721e38ccab014eafa4e73f78104e7624"
+          }
+        },
+        {
+          "id": "generated.fabricmod:roughlyenoughitems:5.13.734@jar",
+          "name": "Roughly Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1139688,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.16.5/fabricmods/required/RoughlyEnoughItems-5.13.734.jar",
+            "MD5": "86f1dda27732ddd4edbf720e0bba73e1"
           }
         },
         {
@@ -627,6 +687,16 @@
           }
         },
         {
+          "id": "com.brand:blockus:2.1.12+1.16.5@jar",
+          "name": "Blockus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3967201,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/blockus-2.1.12+1.16.5.jar",
+            "MD5": "c11d8a5fc13106e0aa3a11b54e2d9b8c"
+          }
+        },
+        {
           "id": "corgiaoc.byg.entrypoint:byg:1.3.6@jar",
           "name": "BYG",
           "type": "FabricMod",
@@ -727,6 +797,16 @@
           }
         },
         {
+          "id": "net.darkhax:enchdesc:2.0.8@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 37620,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/EnchantmentDescriptions-Fabric-1.16.5-2.0.8.jar",
+            "MD5": "d7809e1ea9dae3e029d186db52481c21"
+          }
+        },
+        {
           "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.4@jar",
           "name": "Enhanced Block Entities",
           "type": "FabricMod",
@@ -744,6 +824,16 @@
             "size": 44133,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/entityculling-fabric-mc1.16.5-1.5.2.jar",
             "MD5": "877dcbc4cdc0b9d9e5fb0cc4c39f4ab4"
+          }
+        },
+        {
+          "id": "com.grimbo:chipped:1.1.1@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5337467,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/FABRIC_1.16.5_chipped-1.1.1.jar",
+            "MD5": "0b527795934e9777bc1789e6aaa65226"
           }
         },
         {
@@ -1024,6 +1114,16 @@
             "size": 537880,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/RebornCore-1.16-4.7.3+build.136.jar",
             "MD5": "721e38ccab014eafa4e73f78104e7624"
+          }
+        },
+        {
+          "id": "generated.fabricmod:roughlyenoughitems:5.13.734@jar",
+          "name": "Roughly Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1139688,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCLite-1.16.5/fabricmods/required/RoughlyEnoughItems-5.13.734.jar",
+            "MD5": "86f1dda27732ddd4edbf720e0bba73e1"
           }
         },
         {
