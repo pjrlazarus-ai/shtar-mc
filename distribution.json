@@ -241,7 +241,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1119478,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.12.2/forgemods/required/_MixinBootstrap-1.1.0.jar",
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMC-1.12.2/forgemods/required/MixinBootstrap-1.1.0.jar",
             "MD5": "9df0dc628ebcd787270f487fbbf8157a"
           }
         },
