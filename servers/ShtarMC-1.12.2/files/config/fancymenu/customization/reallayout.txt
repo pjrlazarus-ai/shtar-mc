@@ -1,0 +1,89 @@
+type = menu
+
+customization-meta {
+  identifier = com.gildedgames.the_aether.client.gui.menu.AetherMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=30128%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=30176%
+  orientation = bottom-left
+  x = 30
+  action = movebutton
+  y = -202
+}
+
+customization {
+  identifier = %id=30176%
+  action = setbuttonlabel
+  value = Paramètres
+}
+
+customization {
+  identifier = %id=30152%
+  orientation = top-left
+  x = 30
+  action = movebutton
+  y = 122
+}
+
+customization {
+  identifier = %id=30200%
+  orientation = mid-left
+  x = 30
+  action = movebutton
+  y = -2
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;effects-moments.gl.joinmc.link%btnaction_splitter_fm%
+  x = 30
+  width = 200
+  action = addbutton
+  actionid = aff9d300-39e8-431a-94e2-7d3fa090956a1765474513458
+  y = 101
+  label = Rejoindre
+  height = 20
+}
+
+customization {
+  identifier = %id=30104%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = quitgame%btnaction_splitter_fm%
+  x = 11
+  width = 30
+  action = addbutton
+  actionid = 573106e5-5f9a-4e69-8d34-35a0303e48781765474651058
+  y = 333
+  label = Meteor Cheat
+  height = 20
+}
+
+customization {
+  identifier = %id=3080%
+  action = setbuttonlabel
+  value = Solo
+}
+
