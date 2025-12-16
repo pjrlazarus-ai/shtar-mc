@@ -1036,6 +1036,16 @@
           }
         },
         {
+          "id": "tk.zeitheron:solarflux:12.4.11@jar",
+          "name": "Solar Flux Reborn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 715629,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/SolarFluxReborn-1.12.2-12.4.11.jar",
+            "MD5": "6f6d3280641bfd71a46d0b40feeb9a64"
+          }
+        },
+        {
           "id": "me.lucko:spark:1.6.3@jar",
           "name": "Spark",
           "type": "ForgeMod",
