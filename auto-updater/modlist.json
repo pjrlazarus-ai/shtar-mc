@@ -1,0 +1,372 @@
+{
+  "minecraft": "1.12.2",
+  "loader": "forge",
+  "mods": [
+    {
+      "name": "!!!CrashAssistant-forge-1.12.2-1.10.26",
+      "file": "!!!CrashAssistant-forge-1.12.2-1.10.26.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/!!!CrashAssistant-forge-1.12.2-1.10.26.jar",
+      "sha256": "737fd7b7c444d281dc8c87190881bfbd9781fcfac629f4e19f02df48691005c0"
+    },
+    {
+      "name": "AppleSkin-mc1.12-1.0.14",
+      "file": "AppleSkin-mc1.12-1.0.14.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/AppleSkin-mc1.12-1.0.14.jar",
+      "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e"
+    },
+    {
+      "name": "Baubles-1.12-1.5.2",
+      "file": "Baubles-1.12-1.5.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+      "sha256": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d"
+    },
+    {
+      "name": "BiomesOPlenty-1.12.2-7.0.1.2445-universal",
+      "file": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+      "sha256": "1c53d3ee39f557162591f618c58b79dc6861d24522ef785794ee4a815f8a3908"
+    },
+    {
+      "name": "BrandonsCore-1.12.2-2.4.20.162-universal",
+      "file": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+      "sha256": "7f26e2cad131d3cb79296b0309dbde4f361b34c7f602d9575aecff893bb04d76"
+    },
+    {
+      "name": "CTM-MC1.12.2-1.0.2.31",
+      "file": "CTM-MC1.12.2-1.0.2.31.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.2.31.jar",
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
+    },
+    {
+      "name": "Chameleon-1.12-4.1.3",
+      "file": "Chameleon-1.12-4.1.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Chameleon-1.12-4.1.3.jar",
+      "sha256": "238416f801acda67b90fba9e0e572dbd6e7631b7e64c3eb3d6226f45ae536c87"
+    },
+    {
+      "name": "ChickenChunks-1.12.2-2.4.2.74-universal",
+      "file": "ChickenChunks-1.12.2-2.4.2.74-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ChickenChunks-1.12.2-2.4.2.74-universal.jar",
+      "sha256": "62c3224d41e24b9ac04661e3d5240bf50b85349e43fd25e30bb2078c152d212f"
+    },
+    {
+      "name": "Chisel-MC1.12.2-1.0.2.45",
+      "file": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
+    },
+    {
+      "name": "Clumps-3.1.2",
+      "file": "Clumps-3.1.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Clumps-3.1.2.jar",
+      "sha256": "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4"
+    },
+    {
+      "name": "CodeChickenLib-1.12.2-3.2.3.358-universal",
+      "file": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "sha256": "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74"
+    },
+    {
+      "name": "Cucumber-1.12.2-1.1.3",
+      "file": "Cucumber-1.12.2-1.1.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Cucumber-1.12.2-1.1.3.jar",
+      "sha256": "0475ba0f0964c4a56afd1c2765b7063849ca2b77a91d80d7f612fb15354c27e5"
+    },
+    {
+      "name": "Cyclic-1.12.2-1.20.14",
+      "file": "Cyclic-1.12.2-1.20.14.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Cyclic-1.12.2-1.20.14.jar",
+      "sha256": "b239253961b12aaf54bccecc7b7f85c32a343d50ed6b2eacd0b945213c358649"
+    },
+    {
+      "name": "Draconic-Evolution-1.12.2-2.3.28.354-universal",
+      "file": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+      "sha256": "1eecdefa00056efac98ff56e25f7ed840b70e2d809c628e38c9c5b5518ff14ff"
+    },
+    {
+      "name": "EnchantmentDescriptions-1.12.2-1.1.15",
+      "file": "EnchantmentDescriptions-1.12.2-1.1.15.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
+      "sha256": "c965169400f34ff869f2af9cc645e86d9e0e3d3c46a8edadd63db4a8f9c43b91"
+    },
+    {
+      "name": "FTBGuides-2.0.0.52",
+      "file": "FTBGuides-2.0.0.52.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FTBGuides-2.0.0.52.jar",
+      "sha256": "da58fb0c039201413a33761c24bbea2d706285b262fd8cb4f65361c2dafc3b0f"
+    },
+    {
+      "name": "FTBLib-5.4.7.2",
+      "file": "FTBLib-5.4.7.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FTBLib-5.4.7.2.jar",
+      "sha256": "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac"
+    },
+    {
+      "name": "FTBTutorialMod-1.0.0.11",
+      "file": "FTBTutorialMod-1.0.0.11.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FTBTutorialMod-1.0.0.11.jar",
+      "sha256": "9d383160a74d1871ba06b6bc83188e27342aa168d49e76c8ded0fd15e80702a4"
+    },
+    {
+      "name": "FTBUtilities-5.4.1.131",
+      "file": "FTBUtilities-5.4.1.131.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FTBUtilities-5.4.1.131.jar",
+      "sha256": "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a"
+    },
+    {
+      "name": "FallingTree-1.12.2-2.4.0",
+      "file": "FallingTree-1.12.2-2.4.0.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FallingTree-1.12.2-2.4.0.jar",
+      "sha256": "db48ee92948df1e4f26c637d8c1ee7928600a0436ab517f90abdc163ab2951e4"
+    },
+    {
+      "name": "FpsReducer-mc1.12.2-1.20",
+      "file": "FpsReducer-mc1.12.2-1.20.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FpsReducer-mc1.12.2-1.20.jar",
+      "sha256": "4c04d17010c77196226bb5f2a64c4c8dc348c144ce6183906d6ff301227780d5"
+    },
+    {
+      "name": "Hwyla-1.8.26-B41_1.12.2",
+      "file": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Hwyla-1.8.26-B41_1.12.2.jar",
+      "sha256": "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+    },
+    {
+      "name": "IronJetpacks-1.12-2-1.1.0",
+      "file": "IronJetpacks-1.12-2-1.1.0.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/IronJetpacks-1.12-2-1.1.0.jar",
+      "sha256": "3007220a56179c5665faa68077372cc99fb91f8f7bd6a88f7fe497a7db15e00f"
+    },
+    {
+      "name": "Jade-0.1.0",
+      "file": "Jade-0.1.0.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Jade-0.1.0.jar",
+      "sha256": "53076b9523f5fd450b8bbadde776546c00565880e3e4ac01f3d01a6471b00b0c"
+    },
+    {
+      "name": "Mantle-1.12-1.3.3.55",
+      "file": "Mantle-1.12-1.3.3.55.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
+      "sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65"
+    },
+    {
+      "name": "MixinBootstrap-1.1.0",
+      "file": "MixinBootstrap-1.1.0.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/MixinBootstrap-1.1.0.jar",
+      "sha256": "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
+    },
+    {
+      "name": "MouseTweaks-2.10-mc1.12.2",
+      "file": "MouseTweaks-2.10-mc1.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/MouseTweaks-2.10-mc1.12.2.jar",
+      "sha256": "77969c0e7f76c078ebb7004642e86746d57f47b7a46237fcb1c06d4a55679448"
+    },
+    {
+      "name": "MysticalAgriculture-1.12.2-1.7.5",
+      "file": "MysticalAgriculture-1.12.2-1.7.5.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/MysticalAgriculture-1.12.2-1.7.5.jar",
+      "sha256": "e84a70bbcb5dc559d28c7bc65f1ef1af512485097ad89c6748249b173019975c"
+    },
+    {
+      "name": "Neat 1.4-17",
+      "file": "Neat 1.4-17.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Neat 1.4-17.jar",
+      "sha256": "2062c99a371921fb2eb7cf6833d682c05244ca5a527db8f0c36e7f12c8ca1379"
+    },
+    {
+      "name": "OpenBlocks-1.12.2-1.8.1",
+      "file": "OpenBlocks-1.12.2-1.8.1.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/OpenBlocks-1.12.2-1.8.1.jar",
+      "sha256": "fbf81a96f87c609feb0d03933398fdf4bd8b24bc18119f4642e42b30580950fc"
+    },
+    {
+      "name": "OpenModsLib-1.12.2-0.12.2",
+      "file": "OpenModsLib-1.12.2-0.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/OpenModsLib-1.12.2-0.12.2.jar",
+      "sha256": "47a2428297213cb3f6b3b75fe1604b002e1f5e4412a2ce77c362bf598e15a877"
+    },
+    {
+      "name": "OptiFine_1.12.2_HD_U_G5",
+      "file": "OptiFine_1.12.2_HD_U_G5.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+      "sha256": "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+    },
+    {
+      "name": "RedstoneFlux-1.12-2.1.1.1-universal",
+      "file": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "sha256": "6ff7f96d076bfaad83fb6ba92ec457b8a76391439663b0cc32a9ec5398345280"
+    },
+    {
+      "name": "SolarFluxReborn-1.12.2-12.4.11",
+      "file": "SolarFluxReborn-1.12.2-12.4.11.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/SolarFluxReborn-1.12.2-12.4.11.jar",
+      "sha256": "be490ddbeb08b35ba76bee38feaae465a9553ba3bcfbe2d5eef83875d5b5eda2"
+    },
+    {
+      "name": "StorageDrawers-1.12.2-5.5.3",
+      "file": "StorageDrawers-1.12.2-5.5.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.5.3.jar",
+      "sha256": "26337559bad06539175f0a5fe886db816f0f6045d96be4737493a0e669117e2f"
+    },
+    {
+      "name": "TConstruct-1.12.2-2.13.0.183",
+      "file": "TConstruct-1.12.2-2.13.0.183.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
+      "sha256": "707107f746ffc9d2bf35912953ae1ce780f7b7c4b7cf86b4821a1a151bcf9f6f"
+    },
+    {
+      "name": "[1.12.2] SecurityCraft v1.10.1",
+      "file": "[1.12.2] SecurityCraft v1.10.1.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/[1.12.2] SecurityCraft v1.10.1.jar",
+      "sha256": "02668ea8d493a2bc97fa67d78a9350faa7a3551f8bdf56c7d577cc3753fc29fc"
+    },
+    {
+      "name": "aether-1.12.2-v1.5.4.1",
+      "file": "aether-1.12.2-v1.5.4.1.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/aether-1.12.2-v1.5.4.1.jar",
+      "sha256": "ed6df388e0c696dc527ed078d4ca0a3361e6014c2b0801aef1c140eeb0f2ceb8"
+    },
+    {
+      "name": "appliedenergistics2-rv6-stable-7",
+      "file": "appliedenergistics2-rv6-stable-7.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+      "sha256": "e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a"
+    },
+    {
+      "name": "cc-tweaked-1.12.2-1.89.2",
+      "file": "cc-tweaked-1.12.2-1.89.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/cc-tweaked-1.12.2-1.89.2.jar",
+      "sha256": "f32537175f89ddc9890550a158a910e746cac2848db8f6f123865bd4a8a425fb"
+    },
+    {
+      "name": "chiselsandbits-14.33",
+      "file": "chiselsandbits-14.33.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+      "sha256": "0b086aced1beca90ed5bb25fe6951a4d191d9b49f221af1074d1f9ff4f364b74"
+    },
+    {
+      "name": "durabilitytooltip-1.1.6-forge-mc1.12",
+      "file": "durabilitytooltip-1.1.6-forge-mc1.12.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/durabilitytooltip-1.1.6-forge-mc1.12.jar",
+      "sha256": "6cca49339ccdf9700eaf325370334d49ea9b4e8a07b004f448aac2005badf263"
+    },
+    {
+      "name": "emojiful-1.0.3",
+      "file": "emojiful-1.0.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/emojiful-1.0.3.jar",
+      "sha256": "f8233a57d6c096512a125edbc112e5ef80cc20d4ef2ff6650b7e73bb796d594e"
+    },
+    {
+      "name": "extrautils2-1.12-1.9.9",
+      "file": "extrautils2-1.12-1.9.9.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/extrautils2-1.12-1.9.9.jar",
+      "sha256": "6c1809eb2222604ebf3c051e1c7834b84049013b537633c2e5a1b0077ef9a940"
+    },
+    {
+      "name": "fancymenu_forge_2.14.9_MC_1.12-1.12.2",
+      "file": "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+      "sha256": "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f"
+    },
+    {
+      "name": "foamfix-0.10.15-1.12.2",
+      "file": "foamfix-0.10.15-1.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/foamfix-0.10.15-1.12.2.jar",
+      "sha256": "e6752973cf884f96fcd3835fe6c184b3b4180a27fd955ca07c561cf77e837dda"
+    },
+    {
+      "name": "gravestone-1.10.3",
+      "file": "gravestone-1.10.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/gravestone-1.10.3.jar",
+      "sha256": "85c2f3ee36e92b8e8a518970dca0ee00cb5527a576d7fc814f56afb72a27c9c7"
+    },
+    {
+      "name": "ironchest-1.12.2-7.0.72.847",
+      "file": "ironchest-1.12.2-7.0.72.847.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+      "sha256": "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f"
+    },
+    {
+      "name": "ironfurnaces-1.3.5",
+      "file": "ironfurnaces-1.3.5.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ironfurnaces-1.3.5.jar",
+      "sha256": "82d6eb4011a8a4b62684f206552fed2b487ac1be3dd55967361447d3672f20df"
+    },
+    {
+      "name": "jei_1.12.2-4.16.1.301",
+      "file": "jei_1.12.2-4.16.1.301.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/jei_1.12.2-4.16.1.301.jar",
+      "sha256": "dad60317d8fdf891ad7841abf838564ea7cbd317ec85d92f57dcb8f55602124b"
+    },
+    {
+      "name": "konkrete_forge_1.6.1_MC_1.12-1.12.2",
+      "file": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+      "sha256": "5b412639b99dea3dbc7311cd4bdcf310dbdfd8e9c6eba4f2abe839c261aa0c7a"
+    },
+    {
+      "name": "letsencryptcraft-1.10.2-1.2.0",
+      "file": "letsencryptcraft-1.10.2-1.2.0.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/letsencryptcraft-1.10.2-1.2.0.jar",
+      "sha256": "f214af0ce75145279e7d935d294cff7bc61b265b17cddeb4ceae38d043690a2c"
+    },
+    {
+      "name": "mcjtylib-1.12-3.5.4",
+      "file": "mcjtylib-1.12-3.5.4.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/mcjtylib-1.12-3.5.4.jar",
+      "sha256": "af7d2b3c421329e7b97202302a072867e7c9bd73c5b8fab9bdb3a76fbfe474e3"
+    },
+    {
+      "name": "mcw-furniture-1.0.1-mc1.12.2beta",
+      "file": "mcw-furniture-1.0.1-mc1.12.2beta.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/mcw-furniture-1.0.1-mc1.12.2beta.jar",
+      "sha256": "5efa339045e3dc89a288f38b4f3a0906616f68903c77a4f8d95358caddd767c8"
+    },
+    {
+      "name": "refinedstorage-1.6.16",
+      "file": "refinedstorage-1.6.16.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/refinedstorage-1.6.16.jar",
+      "sha256": "ebdf868db673b2a22233e5e08e7c14ad937b10e2997c4c28a4511ffdd2544f8d"
+    },
+    {
+      "name": "rftools-1.12-7.73",
+      "file": "rftools-1.12-7.73.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/rftools-1.12-7.73.jar",
+      "sha256": "558c38d0f7852d17a03aef81e4bd6cc2f28e60db8a8749c710c9ee829f2de0a4"
+    },
+    {
+      "name": "spark-forge",
+      "file": "spark-forge.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/spark-forge.jar",
+      "sha256": "c77a59d84d68dd32f8394f7e0cf21e229db36c220c8f2f82bcffd832f1ffdaea"
+    },
+    {
+      "name": "starsmodMC1.12.2-1.2.3",
+      "file": "starsmodMC1.12.2-1.2.3.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/starsmodMC1.12.2-1.2.3.jar",
+      "sha256": "f3fc855ef77d8f7594cc0a9583171dc4c2824fb5188f983991c83916ef876228"
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.12",
+      "file": "supermartijn642configlib-1.1.8-forge-mc1.12.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.12.jar",
+      "sha256": "9f15755020a966023eae8e9d1446441d175a88c09b1e458a47fcb3024d5e57f8"
+    },
+    {
+      "name": "tinkersjei-1.2",
+      "file": "tinkersjei-1.2.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/tinkersjei-1.2.jar",
+      "sha256": "526d4fb23d033a79c44276b68746ab3f653e960c7101a9d62f51a12940730b94"
+    },
+    {
+      "name": "voicechat-forge-1.12.2-2.6.6",
+      "file": "voicechat-forge-1.12.2-2.6.6.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.6.6.jar",
+      "sha256": "ff41c84ec642717d137e6a226da3546abab700bd0a50678389c31fce3997dc58"
+    }
+  ]
+}
