@@ -1,0 +1,175 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiOptions
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = nobigbeninde
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 161
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttonlabel
+  value = Paramètres graphiques...
+}
+
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 0
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttonlabel
+  value = Pack de textures...
+}
+
+customization {
+  identifier = %id=345280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = bottom-centered
+  x = -75
+  action = movebutton
+  y = -112
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttonlabel
+  value = Touches...
+}
+
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=505280%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -75
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttonlabel
+  value = Terminer
+}
+
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=345208%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = element
+  orientation_element = vanillabtn:345154
+  x = 159
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=345256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = element
+  orientation_element = vanillabtn:345232
+  x = 0
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=505256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = false
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/button_hover.png
+  backgroundnormal = fancymenu_data/button.png
+}
+

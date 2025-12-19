@@ -2443,9 +2443,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1714,
+            "size": 1738,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/config.txt",
-            "MD5": "e0c788e527626f9572f13cf4cb0a5660",
+            "MD5": "9486c674960399b3c5ff27566a3757bc",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -2454,10 +2454,32 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 172,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "907bbcb1a41c0d7113961f29ed4cd52c",
+            "MD5": "7389e7ed14d08c5bf8711d68fcd71c0d",
             "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "shtarmcbuild.txt",
+          "name": "shtarmcbuild.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6120,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/.disabled/shtarmcbuild.txt",
+            "MD5": "8191d45e618f9293b90c74ae5e1569f1",
+            "path": "config/fancymenu/customization/.disabled/shtarmcbuild.txt"
+          }
+        },
+        {
+          "id": "menu.txt",
+          "name": "menu.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3391,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/menu.txt",
+            "MD5": "7d81453b26cc766b21385e9018f97206",
+            "path": "config/fancymenu/customization/menu.txt"
           }
         },
         {
@@ -2469,6 +2491,17 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/reallayout.txt",
             "MD5": "2b603021b2b56d66a941c0ea01d4dd42",
             "path": "config/fancymenu/customization/reallayout.txt"
+          }
+        },
+        {
+          "id": "shtarmcreleasepackage.txt",
+          "name": "shtarmcreleasepackage.txt",
+          "type": "File",
+          "artifact": {
+            "size": 8256,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/shtarmcreleasepackage.txt",
+            "MD5": "f5f9725d2f798b8122fa904a3107d158",
+            "path": "config/fancymenu/customization/shtarmcreleasepackage.txt"
           }
         },
         {
@@ -2557,6 +2590,160 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/menu_identifiers.db",
             "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
             "path": "config/fancymenu/menu_identifiers.db"
+          }
+        },
+        {
+          "id": "panorama_0.png",
+          "name": "panorama_0.png",
+          "type": "File",
+          "artifact": {
+            "size": 2122642,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_0.png",
+            "MD5": "69f6f6a848907a4bec10d00c7062e430",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_0.png"
+          }
+        },
+        {
+          "id": "panorama_1.png",
+          "name": "panorama_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1986260,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_1.png",
+            "MD5": "59ee119b15005da71100d948e8567d1c",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_1.png"
+          }
+        },
+        {
+          "id": "panorama_2.png",
+          "name": "panorama_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1971210,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_2.png",
+            "MD5": "44360fd6a0f00c972050ac654899cd3c",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_2.png"
+          }
+        },
+        {
+          "id": "panorama_3.png",
+          "name": "panorama_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 2363900,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_3.png",
+            "MD5": "b9c21419ac929f5abf8796f0a648fb8d",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_3.png"
+          }
+        },
+        {
+          "id": "panorama_4.png",
+          "name": "panorama_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1432137,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_4.png",
+            "MD5": "b33e345d47cd92a3cb3977a7b664bee4",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_4.png"
+          }
+        },
+        {
+          "id": "panorama_5.png",
+          "name": "panorama_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 2511571,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_5.png",
+            "MD5": "c4f2752afb41d58d44bd2a376705b418",
+            "path": "config/fancymenu/panoramas/nobigbeninde/panorama/panorama_5.png"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/properties.txt",
+            "MD5": "395a08494fc62faf6e5f225ca98cd335",
+            "path": "config/fancymenu/panoramas/nobigbeninde/properties.txt"
+          }
+        },
+        {
+          "id": "panorama_0.png",
+          "name": "panorama_0.png",
+          "type": "File",
+          "artifact": {
+            "size": 3340770,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_0.png",
+            "MD5": "0dc0e381faeee77e74868121cb61af97",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_0.png"
+          }
+        },
+        {
+          "id": "panorama_1.png",
+          "name": "panorama_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 2899842,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_1.png",
+            "MD5": "b92c89cd6979a3a12b17e02c10de89a6",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_1.png"
+          }
+        },
+        {
+          "id": "panorama_2.png",
+          "name": "panorama_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 2748397,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_2.png",
+            "MD5": "b2ce628cda910d9a0ce9358934a3c0ba",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_2.png"
+          }
+        },
+        {
+          "id": "panorama_3.png",
+          "name": "panorama_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 3096427,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_3.png",
+            "MD5": "ee5dfa2dfd6eaac60ae83623c0408816",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_3.png"
+          }
+        },
+        {
+          "id": "panorama_4.png",
+          "name": "panorama_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1959471,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_4.png",
+            "MD5": "fbbb3876378c9ec87a872dbdd44bf995",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_4.png"
+          }
+        },
+        {
+          "id": "panorama_5.png",
+          "name": "panorama_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 3665657,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_5.png",
+            "MD5": "882a983793d98bf0b8fdc1a527960383",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/panorama/panorama_5.png"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/yesbigbenpro/properties.txt",
+            "MD5": "eca4ea7728f49d7b60551c6907070972",
+            "path": "config/fancymenu/panoramas/yesbigbenpro/properties.txt"
           }
         },
         {
@@ -3173,6 +3360,83 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/waila/waila.cfg",
             "MD5": "c423d25bc978d6601db1c014c7c1e754",
             "path": "config/waila/waila.cfg"
+          }
+        },
+        {
+          "id": "button.png",
+          "name": "button.png",
+          "type": "File",
+          "artifact": {
+            "size": 2364,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/button.png",
+            "MD5": "be57f4c48c7c67a08986db7aecb91ac9",
+            "path": "fancymenu_data/button.png"
+          }
+        },
+        {
+          "id": "button_hover.png",
+          "name": "button_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 2610,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/button_hover.png",
+            "MD5": "d4bceb51cf232ae095ead6bd865f882f",
+            "path": "fancymenu_data/button_hover.png"
+          }
+        },
+        {
+          "id": "customsplashtext.txt",
+          "name": "customsplashtext.txt",
+          "type": "File",
+          "artifact": {
+            "size": 348,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/customsplashtext.txt",
+            "MD5": "2889c30877fa1c1c2caa32c893bdfc3f",
+            "path": "fancymenu_data/customsplashtext.txt"
+          }
+        },
+        {
+          "id": "file.png",
+          "name": "file.png",
+          "type": "File",
+          "artifact": {
+            "size": 23578,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/file.png",
+            "MD5": "3083d417fad81165dcb52b97fa1e7fd4",
+            "path": "fancymenu_data/file.png"
+          }
+        },
+        {
+          "id": "invite.png",
+          "name": "invite.png",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/invite.png",
+            "MD5": "163dec614daebf021d3c96e98bd3a26c",
+            "path": "fancymenu_data/invite.png"
+          }
+        },
+        {
+          "id": "last_world.fmdata",
+          "name": "last_world.fmdata",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/last_world.fmdata",
+            "MD5": "f1cd08afe17e3f029ec5fbafd27827d7",
+            "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "link.png",
+          "name": "link.png",
+          "type": "File",
+          "artifact": {
+            "size": 136,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/link.png",
+            "MD5": "362e1b1fab0280864b753cfa00976d7b",
+            "path": "fancymenu_data/link.png"
           }
         },
         {

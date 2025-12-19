@@ -6,3 +6,6 @@ com.gildedgames.the_aether.client.gui.menu.AetherMainMenu {
 net.minecraft.client.gui.GuiMainMenu {
 }
 
+net.minecraft.client.gui.GuiOptions {
+}
+
