@@ -266,6 +266,16 @@
           }
         },
         {
+          "id": "zone.rong.mixinbooter:mixinbooter:10.7@jar",
+          "name": "MixinBooter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2383999,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/!mixinbooter-10.7.jar",
+            "MD5": "a3221aff1677d5c4192efc43452bf37a"
+          }
+        },
+        {
           "id": "net.geforcemods:securitycraft:v1.10.1@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
@@ -326,6 +336,16 @@
           }
         },
         {
+          "id": "vazkii.botania:botania:r1.10-364.4@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13817704,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Botania%20r1.10-364.4.jar",
+            "MD5": "7a19779fa19e37cb9fb49a0a1770332b"
+          }
+        },
+        {
           "id": "com.brandon3055:brandonscore:1.12.2-2.4.20.22@jar",
           "name": "Brandon's Core",
           "type": "ForgeMod",
@@ -333,6 +353,16 @@
             "size": 827900,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
             "MD5": "4a67ccad9d684466010c02164d7ff13e"
+          }
+        },
+        {
+          "id": "buildcraft.compat:buildcraftlib:8.0.0@jar",
+          "name": "BuildCraft Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5535454,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/buildcraft-all-8.0.0.jar",
+            "MD5": "46b9656fe37ba8005e57d955e39799e2"
           }
         },
         {
@@ -403,6 +433,26 @@
             "size": 704330,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
             "MD5": "3b5e44db5ac96fb23a439590b6731a31"
+          }
+        },
+        {
+          "id": "cofh:cofhcore:4.6.6.1@jar",
+          "name": "CoFH Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 848187,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "MD5": "f147d3b87f97bb317e1c37cba0dde002"
+          }
+        },
+        {
+          "id": "cofh.cofhworld:cofhworld:1.4.0.1@jar",
+          "name": "CoFH World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 505987,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "MD5": "f2bfd74e76b71bdee8a20a9243dd5cdf"
           }
         },
         {
@@ -506,6 +556,16 @@
           }
         },
         {
+          "id": "sonar.fluxnetworks:fluxnetworks:4.1.1.34@jar",
+          "name": "Flux Networks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 475994,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/FluxNetworks-1.12.2-4.1.1.34.jar",
+            "MD5": "dc5f666ad856dd1da2b195f03a815bb3"
+          }
+        },
+        {
           "id": "pl.asie:foamfix:0.10.15-1.12.2@jar",
           "name": "FoamFix",
           "type": "ForgeMod",
@@ -586,6 +646,16 @@
           }
         },
         {
+          "id": "gr8pefish.ironbackpacks:ironbackpacks:1.12.2-3.0.8-12@jar",
+          "name": "Iron Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465363,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/IronBackpacks-1.12.2-3.0.8-12.jar",
+            "MD5": "9fd50b1827b711704c69789aa94ac2ca"
+          }
+        },
+        {
           "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
           "name": "Iron Chests",
           "type": "ForgeMod",
@@ -636,6 +706,16 @@
           }
         },
         {
+          "id": "zzzank.mod:jei_area_fixer:2.3.0@jar",
+          "name": "JEI Area Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 112525,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/jei_area_fixer-2.3.0(1).jar",
+            "MD5": "403579460da7ad3d457534fa88bb7381"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.6.1@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -683,6 +763,36 @@
             "size": 593528,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/mcw-furniture-1.0.1-mc1.12.2beta.jar",
             "MD5": "acd3fcf4549e81d7b179b4c213927e5d"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7863657,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "MD5": "e622b8365b9a1190b3b6cc042854e870"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159785,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "MD5": "0095f13a729ce5873319e36e29a5b5e1"
           }
         },
         {
@@ -753,6 +863,16 @@
             "size": 2669107,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "vazkii.patchouli.common.base:patchouli:1.0-23.6@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 472464,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Patchouli-1.0-23.6.jar",
+            "MD5": "5450477c1ce7189c5ee11595d5e03a7c"
           }
         },
         {
@@ -846,6 +966,36 @@
           }
         },
         {
+          "id": "cofh.thermaldynamics:thermaldynamics:2.5.6.1@jar",
+          "name": "Thermal Dynamics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 728082,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+            "MD5": "38a0c024f5775b0cf783de839033f8db"
+          }
+        },
+        {
+          "id": "cofh.thermalexpansion:thermalexpansion:5.5.7.1@jar",
+          "name": "Thermal Expansion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2345139,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+            "MD5": "0bf91e166b05e83d22455a9c7ec395bb"
+          }
+        },
+        {
+          "id": "cofh.thermalfoundation:thermalfoundation:2.6.7.1@jar",
+          "name": "Thermal Foundation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2219736,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "MD5": "6eca041bbf28949b60ecf1179d561156"
+          }
+        },
+        {
           "id": "com.possibletriangle:tinkersjei:1.2@jar",
           "name": "Tinker's JEI",
           "type": "ForgeMod",
@@ -856,6 +1006,16 @@
           }
         },
         {
+          "id": "net.xalcon:torchmaster:1.8.5.0@jar",
+          "name": "TorchMaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156406,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.5.0.jar",
+            "MD5": "5d242ff1c4bd434f0b865abec8f7b4a0"
+          }
+        },
+        {
           "id": "de.maxhenkel.voicechat:voicechat:1.12.2-2.6.6@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -863,6 +1023,16 @@
             "size": 5859538,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.6.6.jar",
             "MD5": "a3e2d98cc409fdef30b67e3fef0d46de"
+          }
+        },
+        {
+          "id": "ipsis:woot:1.12.2-1.4.11@jar",
+          "name": "Woot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 879720,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/woot-1.12.2-1.4.11.jar",
+            "MD5": "5337f3f9c93f9da1f59797c2275fa288"
           }
         },
         {
@@ -916,7 +1086,7 @@
           "artifact": {
             "size": 835,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/AppliedEnergistics2/CustomRecipes.cfg",
-            "MD5": "db761b10082334c4d97ba5d990033540",
+            "MD5": "92f5b35be9a39fa944956d5c870a4042",
             "path": "config/AppliedEnergistics2/CustomRecipes.cfg"
           }
         },
@@ -936,9 +1106,9 @@
           "name": "items.csv",
           "type": "File",
           "artifact": {
-            "size": 616692,
+            "size": 833466,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/AppliedEnergistics2/items.csv",
-            "MD5": "c37658e890b7075d58adafd70c291b5d",
+            "MD5": "981f3e30a98ba709c4d2cf666f3e094c",
             "path": "config/AppliedEnergistics2/items.csv"
           }
         },
@@ -949,7 +1119,7 @@
           "artifact": {
             "size": 755,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/AppliedEnergistics2/VersionChecker.cfg",
-            "MD5": "368eb13ab6e7f0bff2ab5ab206abe5b3",
+            "MD5": "7afb25b4cf0a0f26eb903045eaee5c3e",
             "path": "config/AppliedEnergistics2/VersionChecker.cfg"
           }
         },
@@ -2153,6 +2323,17 @@
           }
         },
         {
+          "id": "botania.cfg",
+          "name": "botania.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 8905,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/botania.cfg",
+            "MD5": "8a4fb2fd300b2fc967031f33fb37539b",
+            "path": "config/botania.cfg"
+          }
+        },
+        {
           "id": "BrandonsCore.cfg",
           "name": "BrandonsCore.cfg",
           "type": "File",
@@ -2230,6 +2411,39 @@
           }
         },
         {
+          "id": "detailed.properties",
+          "name": "detailed.properties",
+          "type": "File",
+          "artifact": {
+            "size": 439,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/buildcraft/detailed.properties",
+            "MD5": "99b3f0e8c8b52fb5cff23eec46fc7b01",
+            "path": "config/buildcraft/detailed.properties"
+          }
+        },
+        {
+          "id": "main.cfg",
+          "name": "main.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6533,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/buildcraft/main.cfg",
+            "MD5": "3e77c7ebf984a7fc61b509368ae4d6ae",
+            "path": "config/buildcraft/main.cfg"
+          }
+        },
+        {
+          "id": "objects.cfg",
+          "name": "objects.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1619,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/buildcraft/objects.cfg",
+            "MD5": "50e2e838577d50f57959ffe4e9824ba4",
+            "path": "config/buildcraft/objects.cfg"
+          }
+        },
+        {
           "id": "ChickenChunks.cfg",
           "name": "ChickenChunks.cfg",
           "type": "File",
@@ -2256,9 +2470,9 @@
           "name": "chiselsandbits.cfg",
           "type": "File",
           "artifact": {
-            "size": 10306,
+            "size": 13223,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/chiselsandbits.cfg",
-            "MD5": "3762be4729200851cb637a448a80c57d",
+            "MD5": "4bc061386d02a5731c3e04f67f4aecb1",
             "path": "config/chiselsandbits.cfg"
           }
         },
@@ -2307,6 +2521,204 @@
           }
         },
         {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1709,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/core/client.cfg",
+            "MD5": "ab4ab9262227a555e497745116e98301",
+            "path": "config/cofh/core/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4122,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/core/common.cfg",
+            "MD5": "78a7ce8760e126ab09dee7c79c024d9e",
+            "path": "config/cofh/core/common.cfg"
+          }
+        },
+        {
+          "id": "friends.cfg",
+          "name": "friends.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/core/friends.cfg",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/cofh/core/friends.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 725,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermaldynamics/client.cfg",
+            "MD5": "58c28f4cab4e49d0514cdde0c39625e7",
+            "path": "config/cofh/thermaldynamics/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 959,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermaldynamics/common.cfg",
+            "MD5": "7d804bc810fcd2a53b42471065df89ad",
+            "path": "config/cofh/thermaldynamics/common.cfg"
+          }
+        },
+        {
+          "id": "cover_blacklist.json",
+          "name": "cover_blacklist.json",
+          "type": "File",
+          "artifact": {
+            "size": 2503,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermaldynamics/cover_blacklist.json",
+            "MD5": "3d4b9dc4a9be34a6e622c0e53049a302",
+            "path": "config/cofh/thermaldynamics/cover_blacklist.json"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3389,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalexpansion/client.cfg",
+            "MD5": "c30775afa5772afa5e846ad284b944b5",
+            "path": "config/cofh/thermalexpansion/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 28816,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalexpansion/common.cfg",
+            "MD5": "8d6b3b95af23af8e0d3e578fc4176785",
+            "path": "config/cofh/thermalexpansion/common.cfg"
+          }
+        },
+        {
+          "id": "florbs.cfg",
+          "name": "florbs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalexpansion/florbs.cfg",
+            "MD5": "a327c7922190448c86266e51bc12b55a",
+            "path": "config/cofh/thermalexpansion/florbs.cfg"
+          }
+        },
+        {
+          "id": "morbs.cfg",
+          "name": "morbs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 447,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalexpansion/morbs.cfg",
+            "MD5": "e331c7d2e87735164849034ebe30b5be",
+            "path": "config/cofh/thermalexpansion/morbs.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1566,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalfoundation/client.cfg",
+            "MD5": "a74a7928588c68eaa9064a67b3e7b80b",
+            "path": "config/cofh/thermalfoundation/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 16987,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalfoundation/common.cfg",
+            "MD5": "330774cc1ee8cb964f7b9d0890736fc5",
+            "path": "config/cofh/thermalfoundation/common.cfg"
+          }
+        },
+        {
+          "id": "lexicon-whitelist.cfg",
+          "name": "lexicon-whitelist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6981,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+            "MD5": "46620efd321be23758176fd8986b569f",
+            "path": "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
+          }
+        },
+        {
+          "id": "00_minecraft.json",
+          "name": "00_minecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 7036,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/world/00_minecraft.json",
+            "MD5": "3b8a7a5c4d6264c9d7c73fdd2f97a493",
+            "path": "config/cofh/world/00_minecraft.json"
+          }
+        },
+        {
+          "id": "01_thermalfoundation_ores.json",
+          "name": "01_thermalfoundation_ores.json",
+          "type": "File",
+          "artifact": {
+            "size": 5785,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/world/01_thermalfoundation_ores.json",
+            "MD5": "81be005aa3accb1893f21be6bd39c8b6",
+            "path": "config/cofh/world/01_thermalfoundation_ores.json"
+          }
+        },
+        {
+          "id": "02_thermalfoundation_oil.json",
+          "name": "02_thermalfoundation_oil.json",
+          "type": "File",
+          "artifact": {
+            "size": 3571,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/world/02_thermalfoundation_oil.json",
+            "MD5": "4834f1cddeb2c799704b09dc40dcfdea",
+            "path": "config/cofh/world/02_thermalfoundation_oil.json"
+          }
+        },
+        {
+          "id": "03_thermalfoundation_clathrates.json",
+          "name": "03_thermalfoundation_clathrates.json",
+          "type": "File",
+          "artifact": {
+            "size": 2027,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/world/03_thermalfoundation_clathrates.json",
+            "MD5": "38e9a1c48f191ef95ce9702955f8cb8b",
+            "path": "config/cofh/world/03_thermalfoundation_clathrates.json"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1475,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/cofh/world/config.cfg",
+            "MD5": "532a432676117f14b15c71d2b9c3a315",
+            "path": "config/cofh/world/config.cfg"
+          }
+        },
+        {
           "id": "computercraft.cfg",
           "name": "computercraft.cfg",
           "type": "File",
@@ -2322,9 +2734,9 @@
           "name": "config.toml",
           "type": "File",
           "artifact": {
-            "size": 15197,
+            "size": 15196,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/crash_assistant/config.toml",
-            "MD5": "5da8663cb52da1101bc4fd23c474f252",
+            "MD5": "1edd23deb6521c7c87841c8506bbd156",
             "path": "config/crash_assistant/config.toml"
           }
         },
@@ -2344,9 +2756,9 @@
           "name": "modlist.json",
           "type": "File",
           "artifact": {
-            "size": 13675,
+            "size": 19088,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/crash_assistant/modlist.json",
-            "MD5": "772ca4555ae04c9fe77a29bf099c1d95",
+            "MD5": "1b340b95885f47f9ff5d3305798c4156",
             "path": "config/crash_assistant/modlist.json"
           }
         },
@@ -2428,6 +2840,17 @@
           }
         },
         {
+          "id": "extrautils2.cfg",
+          "name": "extrautils2.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4129,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/extrautils2.cfg",
+            "MD5": "8941f55ad950cf45ea80bc5cce630d42",
+            "path": "config/extrautils2.cfg"
+          }
+        },
+        {
           "id": "falling_tree.cfg",
           "name": "falling_tree.cfg",
           "type": "File",
@@ -2443,9 +2866,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1738,
+            "size": 1739,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/config.txt",
-            "MD5": "9486c674960399b3c5ff27566a3757bc",
+            "MD5": "94fe74f7eaf644c2e3f2a00541fbfeed",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -2454,10 +2877,21 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 172,
+            "size": 278,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "7389e7ed14d08c5bf8711d68fcd71c0d",
+            "MD5": "fe2e08e303931cf3427441593b4ee88e",
             "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "shtarmcbuild.txt",
+          "name": "shtarmcbuild.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6120,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/.disabled/shtarmcbuild.txt",
+            "MD5": "8191d45e618f9293b90c74ae5e1569f1",
+            "path": "config/fancymenu/customization/.disabled/shtarmcbuild.txt"
           }
         },
         {
@@ -2469,6 +2903,17 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/menu.txt",
             "MD5": "7d81453b26cc766b21385e9018f97206",
             "path": "config/fancymenu/customization/menu.txt"
+          }
+        },
+        {
+          "id": "musicmenu.txt",
+          "name": "musicmenu.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3299,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/musicmenu.txt",
+            "MD5": "3ee94c26209554765e72236fee1c5dab",
+            "path": "config/fancymenu/customization/musicmenu.txt"
           }
         },
         {
@@ -2489,7 +2934,7 @@
           "artifact": {
             "size": 8256,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/shtarmcreleasepackage.txt",
-            "MD5": "f5f9725d2f798b8122fa904a3107d158",
+            "MD5": "93eec4dd2ee5133d69109d546f829bd7",
             "path": "config/fancymenu/customization/shtarmcreleasepackage.txt"
           }
         },
@@ -2586,6 +3031,83 @@
           "name": "panorama_0.png",
           "type": "File",
           "artifact": {
+            "size": 3130153,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_0.png",
+            "MD5": "f52546321df8a0f53d8a9c595d751207",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_0.png"
+          }
+        },
+        {
+          "id": "panorama_1.png",
+          "name": "panorama_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 3333929,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_1.png",
+            "MD5": "63eff8eb46813f4f08cfa5e07cc49a68",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_1.png"
+          }
+        },
+        {
+          "id": "panorama_2.png",
+          "name": "panorama_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 3666542,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_2.png",
+            "MD5": "3de88b56f4aa4ff36b4ffccb06c34087",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_2.png"
+          }
+        },
+        {
+          "id": "panorama_3.png",
+          "name": "panorama_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 3257833,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_3.png",
+            "MD5": "35d36baac0cbd4208e617d5784b14dbe",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_3.png"
+          }
+        },
+        {
+          "id": "panorama_4.png",
+          "name": "panorama_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1982038,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_4.png",
+            "MD5": "c7d83e5575f122d5ada31697b87e2adf",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_4.png"
+          }
+        },
+        {
+          "id": "panorama_5.png",
+          "name": "panorama_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 2515039,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/panorama/panorama_5.png",
+            "MD5": "b121c5e1c79a5d4a5344d68ff136085f",
+            "path": "config/fancymenu/panoramas/hohogotaga/panorama/panorama_5.png"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/hohogotaga/properties.txt",
+            "MD5": "eca4ea7728f49d7b60551c6907070972",
+            "path": "config/fancymenu/panoramas/hohogotaga/properties.txt"
+          }
+        },
+        {
+          "id": "panorama_0.png",
+          "name": "panorama_0.png",
+          "type": "File",
+          "artifact": {
             "size": 2122642,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/panorama/panorama_0.png",
             "MD5": "69f6f6a848907a4bec10d00c7062e430",
@@ -2656,6 +3178,83 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/nobigbeninde/properties.txt",
             "MD5": "395a08494fc62faf6e5f225ca98cd335",
             "path": "config/fancymenu/panoramas/nobigbeninde/properties.txt"
+          }
+        },
+        {
+          "id": "panorama_0.png",
+          "name": "panorama_0.png",
+          "type": "File",
+          "artifact": {
+            "size": 3072363,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_0.png",
+            "MD5": "5c52f3333024ea06bc5129fd3dc5a0d0",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_0.png"
+          }
+        },
+        {
+          "id": "panorama_1.png",
+          "name": "panorama_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 2755590,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_1.png",
+            "MD5": "2c89060daac1a6ab28c81b8fe0f87424",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_1.png"
+          }
+        },
+        {
+          "id": "panorama_2.png",
+          "name": "panorama_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 2807323,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_2.png",
+            "MD5": "a0f625877fb7fa591db5b03dbca25bbd",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_2.png"
+          }
+        },
+        {
+          "id": "panorama_3.png",
+          "name": "panorama_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 3480356,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_3.png",
+            "MD5": "f65299d74d66a84f4a4da96f6655f6da",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_3.png"
+          }
+        },
+        {
+          "id": "panorama_4.png",
+          "name": "panorama_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 2772153,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_4.png",
+            "MD5": "cef9d442ee8b1569d8b66d6b0eb8fc87",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_4.png"
+          }
+        },
+        {
+          "id": "panorama_5.png",
+          "name": "panorama_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 2891324,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_5.png",
+            "MD5": "902d2b7787ab52946589eebb111c05cc",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/panorama/panorama_5.png"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 130,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/panoramas/webigbeninvfdev/properties.txt",
+            "MD5": "f26a6fd5b40b9a0d55a286dc0f1b0888",
+            "path": "config/fancymenu/panoramas/webigbeninvfdev/properties.txt"
           }
         },
         {
@@ -2747,6 +3346,17 @@
           }
         },
         {
+          "id": "flux_networks.cfg",
+          "name": "flux_networks.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2750,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/flux_networks.cfg",
+            "MD5": "bbc309e74536d5743c83d77e48d92dec",
+            "path": "config/flux_networks.cfg"
+          }
+        },
+        {
           "id": "foamfix.cfg",
           "name": "foamfix.cfg",
           "type": "File",
@@ -2773,9 +3383,9 @@
           "name": "forgeChunkLoading.cfg",
           "type": "File",
           "artifact": {
-            "size": 2391,
+            "size": 2573,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/forgeChunkLoading.cfg",
-            "MD5": "29df8ce242347f1beae415aedf7edec7",
+            "MD5": "c671457deaf2374166ff48cd52fcfa61",
             "path": "config/forgeChunkLoading.cfg"
           }
         },
@@ -2832,6 +3442,28 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/gravestone.cfg",
             "MD5": "9c5967cf8fe48ebeb25bb0692939bc0f",
             "path": "config/gravestone.cfg"
+          }
+        },
+        {
+          "id": "blacklist.json",
+          "name": "blacklist.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/ironbackpacks/blacklist.json",
+            "MD5": "19e53c088151fce167b25ccde6f3e0c4",
+            "path": "config/ironbackpacks/blacklist.json"
+          }
+        },
+        {
+          "id": "ironbackpacks.cfg",
+          "name": "ironbackpacks.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1495,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/ironbackpacks/ironbackpacks.cfg",
+            "MD5": "38f0b0291042d0c651078ea5a1c70e7e",
+            "path": "config/ironbackpacks/ironbackpacks.cfg"
           }
         },
         {
@@ -3070,10 +3702,21 @@
           "name": "worldSettings.cfg",
           "type": "File",
           "artifact": {
-            "size": 438,
+            "size": 645,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/jei/worldSettings.cfg",
-            "MD5": "cd52fb4be1f698ff8bb2b3cfe2c9d533",
+            "MD5": "85b7651b5159d0bc993cf5a2d77abd2c",
             "path": "config/jei/worldSettings.cfg"
+          }
+        },
+        {
+          "id": "jei_area_fixer.cfg",
+          "name": "jei_area_fixer.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1762,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/jei_area_fixer.cfg",
+            "MD5": "3973092ec2cb8e4d369df8b4ab8ac293",
+            "path": "config/jei_area_fixer.cfg"
           }
         },
         {
@@ -3118,6 +3761,39 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "mcjtylib.cfg",
+          "name": "mcjtylib.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7626,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/mcjtylib.cfg",
+            "MD5": "c1f506031be7f6d0b7e76efcdb847195",
+            "path": "config/mcjtylib.cfg"
+          }
+        },
+        {
+          "id": "BoxBlacklist.txt",
+          "name": "BoxBlacklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/mekanism/BoxBlacklist.txt",
+            "MD5": "dabdb199f20730c3f6307c8e05cf4893",
+            "path": "config/mekanism/BoxBlacklist.txt"
+          }
+        },
+        {
+          "id": "mekanism.cfg",
+          "name": "mekanism.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 41520,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/mekanism.cfg",
+            "MD5": "547decb577874285412e000f5ba3ecf0",
+            "path": "config/mekanism.cfg"
           }
         },
         {
@@ -3187,6 +3863,17 @@
           }
         },
         {
+          "id": "patchouli.cfg",
+          "name": "patchouli.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1015,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/patchouli.cfg",
+            "MD5": "d2b2b2bbc7e5f952d67189cb61e7a8df",
+            "path": "config/patchouli.cfg"
+          }
+        },
+        {
           "id": "refinedstorage.cfg",
           "name": "refinedstorage.cfg",
           "type": "File",
@@ -3195,6 +3882,17 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/refinedstorage.cfg",
             "MD5": "7c8f0c942501145b61b0a07a71463648",
             "path": "config/refinedstorage.cfg"
+          }
+        },
+        {
+          "id": "rftools.cfg",
+          "name": "rftools.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 78236,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/rftools/rftools.cfg",
+            "MD5": "d4725acd5b1589ff844640ea5428c114",
+            "path": "config/rftools/rftools.cfg"
           }
         },
         {
@@ -3209,14 +3907,91 @@
           }
         },
         {
+          "id": "compats.hlc",
+          "name": "compats.hlc",
+          "type": "File",
+          "artifact": {
+            "size": 368,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/compats.hlc",
+            "MD5": "9faf246cf689c99f375711b129b95148",
+            "path": "config/solarflux/compats.hlc"
+          }
+        },
+        {
+          "id": "custom_panels.js",
+          "name": "custom_panels.js",
+          "type": "File",
+          "artifact": {
+            "size": 3254,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/custom_panels.js",
+            "MD5": "631679ad729a6590a657c319aa29291a",
+            "path": "config/solarflux/custom_panels.js"
+          }
+        },
+        {
+          "id": "main.hlc",
+          "name": "main.hlc",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/main.hlc",
+            "MD5": "742c252662e919d1b7f77bb21766a9ee",
+            "path": "config/solarflux/main.hlc"
+          }
+        },
+        {
+          "id": "panels.hlc",
+          "name": "panels.hlc",
+          "type": "File",
+          "artifact": {
+            "size": 7278,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/panels.hlc",
+            "MD5": "abf3631373c3038716522f06eb39d0ea",
+            "path": "config/solarflux/panels.hlc"
+          }
+        },
+        {
+          "id": "example_base.png",
+          "name": "example_base.png",
+          "type": "File",
+          "artifact": {
+            "size": 514,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/textures/example_base.png",
+            "MD5": "7f51fd6741e86d34ec158e7c8d4479fa",
+            "path": "config/solarflux/textures/example_base.png"
+          }
+        },
+        {
+          "id": "example_top.png",
+          "name": "example_top.png",
+          "type": "File",
+          "artifact": {
+            "size": 318,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/solarflux/textures/example_top.png",
+            "MD5": "1f80ae473feefc7314a355fb39e06442",
+            "path": "config/solarflux/textures/example_top.png"
+          }
+        },
+        {
           "id": "splash.properties",
           "name": "splash.properties",
           "type": "File",
           "artifact": {
             "size": 375,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/splash.properties",
-            "MD5": "8efe3fcc8ebd4b920a9c752c2e4cbdb0",
+            "MD5": "eeaf03ae1a29e757008f5024d8db11ff",
             "path": "config/splash.properties"
+          }
+        },
+        {
+          "id": "stars.cfg",
+          "name": "stars.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 481,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/stars.cfg",
+            "MD5": "433926fa2031b69e8fcb30bf2d7cda6f",
+            "path": "config/stars.cfg"
           }
         },
         {
@@ -3250,6 +4025,17 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/TinkerModules.cfg",
             "MD5": "85a2f93b12064176c5b12cd2de6f0bf7",
             "path": "config/TinkerModules.cfg"
+          }
+        },
+        {
+          "id": "torchmaster.cfg",
+          "name": "torchmaster.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4847,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/torchmaster.cfg",
+            "MD5": "f87de215c9124df510fd82efcc500c6c",
+            "path": "config/torchmaster.cfg"
           }
         },
         {
@@ -3352,6 +4138,50 @@
           }
         },
         {
+          "id": "custom_drops.json",
+          "name": "custom_drops.json",
+          "type": "File",
+          "artifact": {
+            "size": 3132,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/woot/custom_drops.json",
+            "MD5": "4dac382611f9c285873b01467c500bb5",
+            "path": "config/woot/custom_drops.json"
+          }
+        },
+        {
+          "id": "factory_config.json",
+          "name": "factory_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 4299,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/woot/factory_config.json",
+            "MD5": "735ba301e46fc7bbc75967adbf973345",
+            "path": "config/woot/factory_config.json"
+          }
+        },
+        {
+          "id": "factory_ingredients.json",
+          "name": "factory_ingredients.json",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/woot/factory_ingredients.json",
+            "MD5": "3c267b16ffcd468a267369f985f9f45a",
+            "path": "config/woot/factory_ingredients.json"
+          }
+        },
+        {
+          "id": "woot.cfg",
+          "name": "woot.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 8944,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/woot/woot.cfg",
+            "MD5": "280a84bfca6c27783f46184d4be33fcc",
+            "path": "config/woot/woot.cfg"
+          }
+        },
+        {
           "id": "button.png",
           "name": "button.png",
           "type": "File",
@@ -3411,9 +4241,9 @@
           "name": "last_world.fmdata",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 75,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/last_world.fmdata",
-            "MD5": "f1cd08afe17e3f029ec5fbafd27827d7",
+            "MD5": "e5604622aa643bfbdebcd4f8ce0ae320",
             "path": "fancymenu_data/last_world.fmdata"
           }
         },

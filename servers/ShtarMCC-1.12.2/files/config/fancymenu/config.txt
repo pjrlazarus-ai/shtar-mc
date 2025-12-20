@@ -19,7 +19,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
@@ -40,7 +40,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'ShtarMC shipped build 14';
+S:customwindowtitle = 'ShtarMC shipped build 15';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'false';
 

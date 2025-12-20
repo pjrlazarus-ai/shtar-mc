@@ -258,13 +258,13 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = ShtarMC shipped build 13
+  source = ShtarMC shipped build 15
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
   x = 0
-  width = 200
+  width = 128
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 85fb5035-b371-4450-8473-b03306b894bd1766093839115
   y = -13

@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = effects-moments.gl.joinmc.link
+  is_server = false
+  world = New World
 }
 
