@@ -2884,17 +2884,6 @@
           }
         },
         {
-          "id": "shtarmcbuild.txt",
-          "name": "shtarmcbuild.txt",
-          "type": "File",
-          "artifact": {
-            "size": 6120,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/fancymenu/customization/.disabled/shtarmcbuild.txt",
-            "MD5": "8191d45e618f9293b90c74ae5e1569f1",
-            "path": "config/fancymenu/customization/.disabled/shtarmcbuild.txt"
-          }
-        },
-        {
           "id": "menu.txt",
           "name": "menu.txt",
           "type": "File",
