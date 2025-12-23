@@ -1550,6 +1550,17 @@
           }
         },
         {
+          "id": "index.json",
+          "name": "index.json",
+          "type": "File",
+          "artifact": {
+            "size": 2485,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/index.json",
+            "MD5": "766bf61761145b2f7edd15a718c0d8bf",
+            "path": "config/index.json"
+          }
+        },
+        {
           "id": "button.png",
           "name": "button.png",
           "type": "File",
@@ -1635,17 +1646,6 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/link.png",
             "MD5": "362e1b1fab0280864b753cfa00976d7b",
             "path": "fancymenu_data/link.png"
-          }
-        },
-        {
-          "id": "index.json",
-          "name": "index.json",
-          "type": "File",
-          "artifact": {
-            "size": 41,
-            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_setups/index.json",
-            "MD5": "feedaf309a860d0879fd6465c3a765c6",
-            "path": "fancymenu_setups/index.json"
           }
         },
         {

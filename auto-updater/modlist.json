@@ -4,8 +4,7 @@
   "loader": "forge",
   "folders": [
     "config",
-    "fancymenu_data",
-    "fancymenu_setups"
+    "fancymenu_data"
   ],
   "mods": [
     {
