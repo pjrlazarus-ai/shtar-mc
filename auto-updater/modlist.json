@@ -26,6 +26,12 @@
       "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e"
     },
     {
+      "name": "Aroma1997Core-1.12.2-2.0.0.2.b167",
+      "file": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+      "sha256": "a33c769c535e1be5de66ed0280bdb39d3971e3e7e65f769b423668698b824880"
+    },
+    {
       "name": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97",
       "file": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
       "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
@@ -126,6 +132,12 @@
       "file": "EnchantmentDescriptions-1.12.2-1.1.15.jar",
       "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
       "sha256": "c965169400f34ff869f2af9cc645e86d9e0e3d3c46a8edadd63db4a8f9c43b91"
+    },
+    {
+      "name": "EnderCore-1.12.2-0.5.78",
+      "file": "EnderCore-1.12.2-0.5.78.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderCore-1.12.2-0.5.78.jar",
+      "sha256": "adbd309f6c8001c38c4630aa701cdc5ea59fa7ee9ffa770e21f56b160adb443c"
     },
     {
       "name": "EnderIO-1.12.2-5.3.72",

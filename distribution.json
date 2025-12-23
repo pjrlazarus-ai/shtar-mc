@@ -316,6 +316,16 @@
           }
         },
         {
+          "id": "aroma1997.core:aroma1997core:2.0.0.2.b167@jar",
+          "name": "Aroma1997Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399634,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+            "MD5": "563a460fbaded01bf47835b84761a476"
+          }
+        },
+        {
           "id": "aroma1997.world:aroma1997sdimension:2.0.0.2.b97@jar",
           "name": "Aroma1997's Dimensional World",
           "type": "ForgeMod",
@@ -533,6 +543,16 @@
             "size": 17073,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
             "MD5": "ff5d71e5f96ffb1ef1f996af48da2c6c"
+          }
+        },
+        {
+          "id": "com.enderio.core:endercore:1.12.2-0.5.78@jar",
+          "name": "EnderCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 660062,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderCore-1.12.2-0.5.78.jar",
+            "MD5": "988dfc984d7d20d9bcfc429add054240"
           }
         },
         {
