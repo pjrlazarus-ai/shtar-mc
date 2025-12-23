@@ -1,5 +1,5 @@
 {
-  "pack_version": 2,
+  "pack_version": 1,
   "minecraft": "1.12.2",
   "loader": "forge",
   "folders": [
@@ -25,6 +25,12 @@
       "file": "AppleSkin-mc1.12-1.0.14.jar",
       "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/AppleSkin-mc1.12-1.0.14.jar",
       "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e"
+    },
+    {
+      "name": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97",
+      "file": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
+      "sha256": "12fb21d840895cdd315a488b48342eff881f7d4261ea02f53dd8e7f83ceff936"
     },
     {
       "name": "Baubles-1.12-1.5.2",
@@ -121,6 +127,18 @@
       "file": "EnchantmentDescriptions-1.12.2-1.1.15.jar",
       "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
       "sha256": "c965169400f34ff869f2af9cc645e86d9e0e3d3c46a8edadd63db4a8f9c43b91"
+    },
+    {
+      "name": "EnderIO-1.12.2-5.3.72",
+      "file": "EnderIO-1.12.2-5.3.72.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderIO-1.12.2-5.3.72.jar",
+      "sha256": "9b5e7756af35a191de8bc8f010c0f7c7ffc2e1e056a69ec265d1dd5ce90d19b4"
+    },
+    {
+      "name": "EnderStorage-1.12.2-2.4.6.137-universal",
+      "file": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+      "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderStorage-1.12.2-2.4.6.137-universal.jar",
+      "sha256": "06e2357019f4e0836bfb9202af013adc125252f610b198a7a547d4596d2934c0"
     },
     {
       "name": "FTBGuides-2.0.0.52",

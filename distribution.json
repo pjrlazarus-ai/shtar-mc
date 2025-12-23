@@ -316,6 +316,16 @@
           }
         },
         {
+          "id": "aroma1997.world:aroma1997sdimension:2.0.0.2.b97@jar",
+          "name": "Aroma1997's Dimensional World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 130384,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
+            "MD5": "0381a852f0a0bd2a0f29531da5c9caf5"
+          }
+        },
+        {
           "id": "baubles:baubles:1.12-1.5.2@jar",
           "name": "Baubles",
           "type": "ForgeMod",
@@ -523,6 +533,26 @@
             "size": 17073,
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
             "MD5": "ff5d71e5f96ffb1ef1f996af48da2c6c"
+          }
+        },
+        {
+          "id": "crazypants.enderio.base:enderio:5.3.72@jar",
+          "name": "Ender IO",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8946588,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderIO-1.12.2-5.3.72.jar",
+            "MD5": "ccb5f0924b499a96c128c46279a6475e"
+          }
+        },
+        {
+          "id": "codechicken.enderstorage:enderstorage:2.4.6.137@jar",
+          "name": "EnderStorage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 223250,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/forgemods/required/EnderStorage-1.12.2-2.4.6.137-universal.jar",
+            "MD5": "c66000e24e8c11675db554c644b31bda"
           }
         },
         {
@@ -3445,6 +3475,17 @@
           }
         },
         {
+          "id": "index.json",
+          "name": "index.json",
+          "type": "File",
+          "artifact": {
+            "size": 14270,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/config/index.json",
+            "MD5": "a4da0bfca872f01382c20725ef7912f7",
+            "path": "config/index.json"
+          }
+        },
+        {
           "id": "blacklist.json",
           "name": "blacklist.json",
           "type": "File",
@@ -4226,6 +4267,17 @@
           }
         },
         {
+          "id": "index.json",
+          "name": "index.json",
+          "type": "File",
+          "artifact": {
+            "size": 193,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/index.json",
+            "MD5": "1e1334da40de69a70170ebe1bbd641f2",
+            "path": "fancymenu_data/index.json"
+          }
+        },
+        {
           "id": "invite.png",
           "name": "invite.png",
           "type": "File",
@@ -4256,6 +4308,17 @@
             "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_data/link.png",
             "MD5": "362e1b1fab0280864b753cfa00976d7b",
             "path": "fancymenu_data/link.png"
+          }
+        },
+        {
+          "id": "index.json",
+          "name": "index.json",
+          "type": "File",
+          "artifact": {
+            "size": 41,
+            "url": "https://pjrlazarus-ai.github.io/shtar-mc/servers/ShtarMCC-1.12.2/files/fancymenu_setups/index.json",
+            "MD5": "feedaf309a860d0879fd6465c3a765c6",
+            "path": "fancymenu_setups/index.json"
           }
         },
         {
